@@ -1,0 +1,44 @@
+{
+  "type": "Compass Connections",
+  "version": {
+    "$numberInt": "1"
+  },
+  "connections": [
+    {
+      "id": "4aeb8261-7a61-4ac5-898f-660e1d506d2a",
+      "lastUsed": {
+        "$date": {
+          "$numberLong": "1734489851740"
+        }
+      },
+      "favorite": {
+        "name": "HappyLifeDB"
+      },
+      "savedConnectionType": "recent",
+      "connectionOptions": {
+        "connectionString": "mongodb://localhost:27017/HappyLifeDB",
+        "oidc": {
+          "serializedState": "eyJvaWRjUGx1Z2luU3RhdGVWZXJzaW9uIjowLCJzdGF0ZSI6W119"
+        }
+      }
+    },
+    {
+      "id": "9225f749-ce29-4f95-a152-2045c846d3ad",
+      "lastUsed": {
+        "$date": {
+          "$numberLong": "1734924422449"
+        }
+      },
+      "favorite": {
+        "name": "cluster0.qrw18cf.mongodb.net"
+      },
+      "savedConnectionType": "recent",
+      "connectionOptions": {
+        "connectionString": "mongodb+srv://dmisahappylife123:dmisahappylife321@cluster0.qrw18cf.mongodb.net/",
+        "oidc": {
+          "serializedState": "eyJvaWRjUGx1Z2luU3RhdGVWZXJzaW9uIjowLCJzdGF0ZSI6W119"
+        }
+      }
+    }
+  ]
+}

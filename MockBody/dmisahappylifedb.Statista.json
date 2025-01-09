@@ -1,0 +1,1188 @@
+[{
+  "_id": {
+    "$oid": "65ab66e9975e1c047c420c01"
+  },
+  "year": 2023,
+  "insuranceStatista": {
+    "numOfInsuranceRegistration": 7000,
+    "numOfExpiredRegistration": 8000,
+    "numOfActiveRegistration": 8000
+  },
+  "claimStatista": {
+    "numOfClaim": 8000,
+    "numOfResolvedClaim": 8000,
+    "numOfPendingClaim": 8000,
+    "totalClaimAmount": 8000
+  },
+  "avenueStatista": {
+    "totalAvenueFromInsuranceFee": 8000,
+    "totalProfit": 8000
+  },
+  "rateStatista": {
+    "lossRatio": 8000,
+    "compensationPayoutRatio": 8000,
+    "rateOfPlans": [
+      {
+        "planId": "afafad",
+        "planName": "Bảo hiểm sức khỏe",
+        "lossRatio": 7000,
+        "compensationPayoutRatio": 10
+      }
+    ]
+  },
+  "monthStatistas": [
+    {
+      "month": 1,
+      "insuranceStatista": {
+        "numOfInsuranceRegistration": 7000,
+        "numOfExpiredRegistration": 8000,
+        "numOfActiveRegistration": 8000
+      },
+      "claimStatista": {
+        "numOfClaim": 8000,
+        "numOfResolvedClaim": 8000,
+        "numOfPendingClaim": 8000,
+        "totalClaimAmount": 8000
+      },
+      "avenueStatista": {
+        "totalAvenueFromInsuranceFee": 8000,
+        "totalProfit": 8000
+      },
+      "rateStatista": {
+        "lossRatio": 8000,
+        "compensationPayoutRatio": 8000,
+        "rateOfPlans": [
+          {
+            "planId": "afafad",
+            "planName": "Bảo hiểm sức khỏe",
+            "lossRatio": 7000,
+            "compensationPayoutRatio": 10
+          }
+        ]
+      }
+    },
+    {
+      "month": 2,
+      "insuranceStatista": {
+        "numOfInsuranceRegistration": 7000,
+        "numOfExpiredRegistration": 8000,
+        "numOfActiveRegistration": 8000
+      },
+      "claimStatista": {
+        "numOfClaim": 8000,
+        "numOfResolvedClaim": 8000,
+        "numOfPendingClaim": 8000,
+        "totalClaimAmount": 8000
+      },
+      "avenueStatista": {
+        "totalAvenueFromInsuranceFee": 8000,
+        "totalProfit": 8000
+      },
+      "rateStatista": {
+        "lossRatio": 8000,
+        "compensationPayoutRatio": 8000,
+        "rateOfPlans": [
+          {
+            "planId": "afafad",
+            "planName": "Bảo hiểm sức khỏe",
+            "lossRatio": 7000,
+            "compensationPayoutRatio": 10
+          }
+        ]
+      }
+    },
+    {
+      "month": 3,
+      "insuranceStatista": {
+        "numOfInsuranceRegistration": 7000,
+        "numOfExpiredRegistration": 8000,
+        "numOfActiveRegistration": 8000
+      },
+      "claimStatista": {
+        "numOfClaim": 8000,
+        "numOfResolvedClaim": 8000,
+        "numOfPendingClaim": 8000,
+        "totalClaimAmount": 8000
+      },
+      "avenueStatista": {
+        "totalAvenueFromInsuranceFee": 8000,
+        "totalProfit": 8000
+      },
+      "rateStatista": {
+        "lossRatio": 8000,
+        "compensationPayoutRatio": 8000,
+        "rateOfPlans": [
+          {
+            "planId": "afafad",
+            "planName": "Bảo hiểm sức khỏe",
+            "lossRatio": 7000,
+            "compensationPayoutRatio": 10
+          }
+        ]
+      }
+    },
+    {
+      "month": 4,
+      "insuranceStatista": {
+        "numOfInsuranceRegistration": 7000,
+        "numOfExpiredRegistration": 8000,
+        "numOfActiveRegistration": 8000
+      },
+      "claimStatista": {
+        "numOfClaim": 8000,
+        "numOfResolvedClaim": 8000,
+        "numOfPendingClaim": 8000,
+        "totalClaimAmount": 8000
+      },
+      "avenueStatista": {
+        "totalAvenueFromInsuranceFee": 8000,
+        "totalProfit": 8000
+      },
+      "rateStatista": {
+        "lossRatio": 8000,
+        "compensationPayoutRatio": 8000,
+        "rateOfPlans": [
+          {
+            "planId": "afafad",
+            "planName": "Bảo hiểm sức khỏe",
+            "lossRatio": 7000,
+            "compensationPayoutRatio": 10
+          }
+        ]
+      }
+    },
+    {
+      "month": 5,
+      "insuranceStatista": {
+        "numOfInsuranceRegistration": 7000,
+        "numOfExpiredRegistration": 8000,
+        "numOfActiveRegistration": 8000
+      },
+      "claimStatista": {
+        "numOfClaim": 8000,
+        "numOfResolvedClaim": 8000,
+        "numOfPendingClaim": 8000,
+        "totalClaimAmount": 8000
+      },
+      "avenueStatista": {
+        "totalAvenueFromInsuranceFee": 8000,
+        "totalProfit": 8000
+      },
+      "rateStatista": {
+        "lossRatio": 8000,
+        "compensationPayoutRatio": 8000,
+        "rateOfPlans": [
+          {
+            "planId": "afafad",
+            "planName": "Bảo hiểm sức khỏe",
+            "lossRatio": 7000,
+            "compensationPayoutRatio": 10
+          }
+        ]
+      }
+    },
+    {
+      "month": 6,
+      "insuranceStatista": {
+        "numOfInsuranceRegistration": 7000,
+        "numOfExpiredRegistration": 8000,
+        "numOfActiveRegistration": 8000
+      },
+      "claimStatista": {
+        "numOfClaim": 8000,
+        "numOfResolvedClaim": 8000,
+        "numOfPendingClaim": 8000,
+        "totalClaimAmount": 8000
+      },
+      "avenueStatista": {
+        "totalAvenueFromInsuranceFee": 8000,
+        "totalProfit": 8000
+      },
+      "rateStatista": {
+        "lossRatio": 8000,
+        "compensationPayoutRatio": 8000,
+        "rateOfPlans": [
+          {
+            "planId": "afafad",
+            "planName": "Bảo hiểm sức khỏe",
+            "lossRatio": 7000,
+            "compensationPayoutRatio": 10
+          }
+        ]
+      }
+    },
+    {
+      "month": 7,
+      "insuranceStatista": {
+        "numOfInsuranceRegistration": 7000,
+        "numOfExpiredRegistration": 8000,
+        "numOfActiveRegistration": 8000
+      },
+      "claimStatista": {
+        "numOfClaim": 8000,
+        "numOfResolvedClaim": 8000,
+        "numOfPendingClaim": 8000,
+        "totalClaimAmount": 8000
+      },
+      "avenueStatista": {
+        "totalAvenueFromInsuranceFee": 8000,
+        "totalProfit": 8000
+      },
+      "rateStatista": {
+        "lossRatio": 8000,
+        "compensationPayoutRatio": 8000,
+        "rateOfPlans": [
+          {
+            "planId": "afafad",
+            "planName": "Bảo hiểm sức khỏe",
+            "lossRatio": 7000,
+            "compensationPayoutRatio": 10
+          }
+        ]
+      }
+    },
+    {
+      "month": 8,
+      "insuranceStatista": {
+        "numOfInsuranceRegistration": 7000,
+        "numOfExpiredRegistration": 8000,
+        "numOfActiveRegistration": 8000
+      },
+      "claimStatista": {
+        "numOfClaim": 8000,
+        "numOfResolvedClaim": 8000,
+        "numOfPendingClaim": 8000,
+        "totalClaimAmount": 8000
+      },
+      "avenueStatista": {
+        "totalAvenueFromInsuranceFee": 8000,
+        "totalProfit": 8000
+      },
+      "rateStatista": {
+        "lossRatio": 8000,
+        "compensationPayoutRatio": 8000,
+        "rateOfPlans": [
+          {
+            "planId": "afafad",
+            "planName": "Bảo hiểm sức khỏe",
+            "lossRatio": 7000,
+            "compensationPayoutRatio": 10
+          }
+        ]
+      }
+    },
+    {
+      "month": 8,
+      "insuranceStatista": {
+        "numOfInsuranceRegistration": 7000,
+        "numOfExpiredRegistration": 8000,
+        "numOfActiveRegistration": 8000
+      },
+      "claimStatista": {
+        "numOfClaim": 8000,
+        "numOfResolvedClaim": 8000,
+        "numOfPendingClaim": 8000,
+        "totalClaimAmount": 8000
+      },
+      "avenueStatista": {
+        "totalAvenueFromInsuranceFee": 8000,
+        "totalProfit": 8000
+      },
+      "rateStatista": {
+        "lossRatio": 8000,
+        "compensationPayoutRatio": 8000,
+        "rateOfPlans": [
+          {
+            "planId": "afafad",
+            "planName": "Bảo hiểm sức khỏe",
+            "lossRatio": 7000,
+            "compensationPayoutRatio": 10
+          }
+        ]
+      }
+    },
+    {
+      "month": 10,
+      "insuranceStatista": {
+        "numOfInsuranceRegistration": 7000,
+        "numOfExpiredRegistration": 8000,
+        "numOfActiveRegistration": 8000
+      },
+      "claimStatista": {
+        "numOfClaim": 8000,
+        "numOfResolvedClaim": 8000,
+        "numOfPendingClaim": 8000,
+        "totalClaimAmount": 8000
+      },
+      "avenueStatista": {
+        "totalAvenueFromInsuranceFee": 8000,
+        "totalProfit": 8000
+      },
+      "rateStatista": {
+        "lossRatio": 8000,
+        "compensationPayoutRatio": 8000,
+        "rateOfPlans": [
+          {
+            "planId": "afafad",
+            "planName": "Bảo hiểm sức khỏe",
+            "lossRatio": 7000,
+            "compensationPayoutRatio": 10
+          }
+        ]
+      }
+    },
+    {
+      "month": 11,
+      "insuranceStatista": {
+        "numOfInsuranceRegistration": 7000,
+        "numOfExpiredRegistration": 8000,
+        "numOfActiveRegistration": 8000
+      },
+      "claimStatista": {
+        "numOfClaim": 8000,
+        "numOfResolvedClaim": 8000,
+        "numOfPendingClaim": 8000,
+        "totalClaimAmount": 8000
+      },
+      "avenueStatista": {
+        "totalAvenueFromInsuranceFee": 8000,
+        "totalProfit": 8000
+      },
+      "rateStatista": {
+        "lossRatio": 8000,
+        "compensationPayoutRatio": 8000,
+        "rateOfPlans": [
+          {
+            "planId": "afafad",
+            "planName": "Bảo hiểm sức khỏe",
+            "lossRatio": 7000,
+            "compensationPayoutRatio": 10
+          }
+        ]
+      }
+    },
+    {
+      "month": 12,
+      "insuranceStatista": {
+        "numOfInsuranceRegistration": 7000,
+        "numOfExpiredRegistration": 8000,
+        "numOfActiveRegistration": 8000
+      },
+      "claimStatista": {
+        "numOfClaim": 8000,
+        "numOfResolvedClaim": 8000,
+        "numOfPendingClaim": 8000,
+        "totalClaimAmount": 8000
+      },
+      "avenueStatista": {
+        "totalAvenueFromInsuranceFee": 8000,
+        "totalProfit": 8000
+      },
+      "rateStatista": {
+        "lossRatio": 8000,
+        "compensationPayoutRatio": 8000,
+        "rateOfPlans": [
+          {
+            "planId": "afafad",
+            "planName": "Bảo hiểm sức khỏe",
+            "lossRatio": 7000,
+            "compensationPayoutRatio": 10
+          }
+        ]
+      }
+    }
+  ],
+  "_class": "com.example.happylife.backendhappylife.entity.Statista"
+},
+{
+  "_id": {
+    "$oid": "65ab6708975e1c047c420c02"
+  },
+  "year": 2022,
+  "insuranceStatista": {
+    "numOfInsuranceRegistration": 7000,
+    "numOfExpiredRegistration": 5000,
+    "numOfActiveRegistration": 5000
+  },
+  "claimStatista": {
+    "numOfClaim": 5000,
+    "numOfResolvedClaim": 5000,
+    "numOfPendingClaim": 5000,
+    "totalClaimAmount": 5000
+  },
+  "avenueStatista": {
+    "totalAvenueFromInsuranceFee": 5000,
+    "totalProfit": 5000
+  },
+  "rateStatista": {
+    "lossRatio": 5000,
+    "compensationPayoutRatio": 5000,
+    "rateOfPlans": [
+      {
+        "planId": "afafad",
+        "planName": "Bảo hiểm sức khỏe",
+        "lossRatio": 7000,
+        "compensationPayoutRatio": 10
+      }
+    ]
+  },
+  "monthStatistas": [
+    {
+      "month": 1,
+      "insuranceStatista": {
+        "numOfInsuranceRegistration": 7000,
+        "numOfExpiredRegistration": 5000,
+        "numOfActiveRegistration": 5000
+      },
+      "claimStatista": {
+        "numOfClaim": 5000,
+        "numOfResolvedClaim": 5000,
+        "numOfPendingClaim": 5000,
+        "totalClaimAmount": 5000
+      },
+      "avenueStatista": {
+        "totalAvenueFromInsuranceFee": 5000,
+        "totalProfit": 5000
+      },
+      "rateStatista": {
+        "lossRatio": 5000,
+        "compensationPayoutRatio": 5000,
+        "rateOfPlans": [
+          {
+            "planId": "afafad",
+            "planName": "Bảo hiểm sức khỏe",
+            "lossRatio": 7000,
+            "compensationPayoutRatio": 10
+          }
+        ]
+      }
+    },
+    {
+      "month": 2,
+      "insuranceStatista": {
+        "numOfInsuranceRegistration": 7000,
+        "numOfExpiredRegistration": 5000,
+        "numOfActiveRegistration": 5000
+      },
+      "claimStatista": {
+        "numOfClaim": 5000,
+        "numOfResolvedClaim": 5000,
+        "numOfPendingClaim": 5000,
+        "totalClaimAmount": 5000
+      },
+      "avenueStatista": {
+        "totalAvenueFromInsuranceFee": 5000,
+        "totalProfit": 5000
+      },
+      "rateStatista": {
+        "lossRatio": 5000,
+        "compensationPayoutRatio": 5000,
+        "rateOfPlans": [
+          {
+            "planId": "afafad",
+            "planName": "Bảo hiểm sức khỏe",
+            "lossRatio": 7000,
+            "compensationPayoutRatio": 10
+          }
+        ]
+      }
+    },
+    {
+      "month": 3,
+      "insuranceStatista": {
+        "numOfInsuranceRegistration": 7000,
+        "numOfExpiredRegistration": 5000,
+        "numOfActiveRegistration": 5000
+      },
+      "claimStatista": {
+        "numOfClaim": 5000,
+        "numOfResolvedClaim": 5000,
+        "numOfPendingClaim": 5000,
+        "totalClaimAmount": 5000
+      },
+      "avenueStatista": {
+        "totalAvenueFromInsuranceFee": 5000,
+        "totalProfit": 5000
+      },
+      "rateStatista": {
+        "lossRatio": 5000,
+        "compensationPayoutRatio": 5000,
+        "rateOfPlans": [
+          {
+            "planId": "afafad",
+            "planName": "Bảo hiểm sức khỏe",
+            "lossRatio": 7000,
+            "compensationPayoutRatio": 10
+          }
+        ]
+      }
+    },
+    {
+      "month": 4,
+      "insuranceStatista": {
+        "numOfInsuranceRegistration": 7000,
+        "numOfExpiredRegistration": 5000,
+        "numOfActiveRegistration": 5000
+      },
+      "claimStatista": {
+        "numOfClaim": 5000,
+        "numOfResolvedClaim": 5000,
+        "numOfPendingClaim": 5000,
+        "totalClaimAmount": 5000
+      },
+      "avenueStatista": {
+        "totalAvenueFromInsuranceFee": 5000,
+        "totalProfit": 5000
+      },
+      "rateStatista": {
+        "lossRatio": 5000,
+        "compensationPayoutRatio": 5000,
+        "rateOfPlans": [
+          {
+            "planId": "afafad",
+            "planName": "Bảo hiểm sức khỏe",
+            "lossRatio": 7000,
+            "compensationPayoutRatio": 10
+          }
+        ]
+      }
+    },
+    {
+      "month": 5,
+      "insuranceStatista": {
+        "numOfInsuranceRegistration": 7000,
+        "numOfExpiredRegistration": 5000,
+        "numOfActiveRegistration": 5000
+      },
+      "claimStatista": {
+        "numOfClaim": 5000,
+        "numOfResolvedClaim": 5000,
+        "numOfPendingClaim": 5000,
+        "totalClaimAmount": 5000
+      },
+      "avenueStatista": {
+        "totalAvenueFromInsuranceFee": 5000,
+        "totalProfit": 5000
+      },
+      "rateStatista": {
+        "lossRatio": 5000,
+        "compensationPayoutRatio": 5000,
+        "rateOfPlans": [
+          {
+            "planId": "afafad",
+            "planName": "Bảo hiểm sức khỏe",
+            "lossRatio": 7000,
+            "compensationPayoutRatio": 10
+          }
+        ]
+      }
+    },
+    {
+      "month": 6,
+      "insuranceStatista": {
+        "numOfInsuranceRegistration": 7000,
+        "numOfExpiredRegistration": 5000,
+        "numOfActiveRegistration": 5000
+      },
+      "claimStatista": {
+        "numOfClaim": 5000,
+        "numOfResolvedClaim": 5000,
+        "numOfPendingClaim": 5000,
+        "totalClaimAmount": 5000
+      },
+      "avenueStatista": {
+        "totalAvenueFromInsuranceFee": 5000,
+        "totalProfit": 5000
+      },
+      "rateStatista": {
+        "lossRatio": 5000,
+        "compensationPayoutRatio": 5000,
+        "rateOfPlans": [
+          {
+            "planId": "afafad",
+            "planName": "Bảo hiểm sức khỏe",
+            "lossRatio": 7000,
+            "compensationPayoutRatio": 10
+          }
+        ]
+      }
+    },
+    {
+      "month": 7,
+      "insuranceStatista": {
+        "numOfInsuranceRegistration": 7000,
+        "numOfExpiredRegistration": 5000,
+        "numOfActiveRegistration": 5000
+      },
+      "claimStatista": {
+        "numOfClaim": 5000,
+        "numOfResolvedClaim": 5000,
+        "numOfPendingClaim": 5000,
+        "totalClaimAmount": 5000
+      },
+      "avenueStatista": {
+        "totalAvenueFromInsuranceFee": 5000,
+        "totalProfit": 5000
+      },
+      "rateStatista": {
+        "lossRatio": 5000,
+        "compensationPayoutRatio": 5000,
+        "rateOfPlans": [
+          {
+            "planId": "afafad",
+            "planName": "Bảo hiểm sức khỏe",
+            "lossRatio": 7000,
+            "compensationPayoutRatio": 10
+          }
+        ]
+      }
+    },
+    {
+      "month": 8,
+      "insuranceStatista": {
+        "numOfInsuranceRegistration": 7000,
+        "numOfExpiredRegistration": 5000,
+        "numOfActiveRegistration": 5000
+      },
+      "claimStatista": {
+        "numOfClaim": 5000,
+        "numOfResolvedClaim": 5000,
+        "numOfPendingClaim": 5000,
+        "totalClaimAmount": 5000
+      },
+      "avenueStatista": {
+        "totalAvenueFromInsuranceFee": 5000,
+        "totalProfit": 5000
+      },
+      "rateStatista": {
+        "lossRatio": 5000,
+        "compensationPayoutRatio": 5000,
+        "rateOfPlans": [
+          {
+            "planId": "afafad",
+            "planName": "Bảo hiểm sức khỏe",
+            "lossRatio": 7000,
+            "compensationPayoutRatio": 10
+          }
+        ]
+      }
+    },
+    {
+      "month": 8,
+      "insuranceStatista": {
+        "numOfInsuranceRegistration": 7000,
+        "numOfExpiredRegistration": 5000,
+        "numOfActiveRegistration": 5000
+      },
+      "claimStatista": {
+        "numOfClaim": 5000,
+        "numOfResolvedClaim": 5000,
+        "numOfPendingClaim": 5000,
+        "totalClaimAmount": 5000
+      },
+      "avenueStatista": {
+        "totalAvenueFromInsuranceFee": 5000,
+        "totalProfit": 5000
+      },
+      "rateStatista": {
+        "lossRatio": 5000,
+        "compensationPayoutRatio": 5000,
+        "rateOfPlans": [
+          {
+            "planId": "afafad",
+            "planName": "Bảo hiểm sức khỏe",
+            "lossRatio": 7000,
+            "compensationPayoutRatio": 10
+          }
+        ]
+      }
+    },
+    {
+      "month": 10,
+      "insuranceStatista": {
+        "numOfInsuranceRegistration": 7000,
+        "numOfExpiredRegistration": 5000,
+        "numOfActiveRegistration": 5000
+      },
+      "claimStatista": {
+        "numOfClaim": 5000,
+        "numOfResolvedClaim": 5000,
+        "numOfPendingClaim": 5000,
+        "totalClaimAmount": 5000
+      },
+      "avenueStatista": {
+        "totalAvenueFromInsuranceFee": 5000,
+        "totalProfit": 5000
+      },
+      "rateStatista": {
+        "lossRatio": 5000,
+        "compensationPayoutRatio": 5000,
+        "rateOfPlans": [
+          {
+            "planId": "afafad",
+            "planName": "Bảo hiểm sức khỏe",
+            "lossRatio": 7000,
+            "compensationPayoutRatio": 10
+          }
+        ]
+      }
+    },
+    {
+      "month": 11,
+      "insuranceStatista": {
+        "numOfInsuranceRegistration": 7000,
+        "numOfExpiredRegistration": 5000,
+        "numOfActiveRegistration": 5000
+      },
+      "claimStatista": {
+        "numOfClaim": 5000,
+        "numOfResolvedClaim": 5000,
+        "numOfPendingClaim": 5000,
+        "totalClaimAmount": 5000
+      },
+      "avenueStatista": {
+        "totalAvenueFromInsuranceFee": 5000,
+        "totalProfit": 5000
+      },
+      "rateStatista": {
+        "lossRatio": 5000,
+        "compensationPayoutRatio": 5000,
+        "rateOfPlans": [
+          {
+            "planId": "afafad",
+            "planName": "Bảo hiểm sức khỏe",
+            "lossRatio": 7000,
+            "compensationPayoutRatio": 10
+          }
+        ]
+      }
+    },
+    {
+      "month": 12,
+      "insuranceStatista": {
+        "numOfInsuranceRegistration": 7000,
+        "numOfExpiredRegistration": 5000,
+        "numOfActiveRegistration": 5000
+      },
+      "claimStatista": {
+        "numOfClaim": 5000,
+        "numOfResolvedClaim": 5000,
+        "numOfPendingClaim": 5000,
+        "totalClaimAmount": 5000
+      },
+      "avenueStatista": {
+        "totalAvenueFromInsuranceFee": 5000,
+        "totalProfit": 5000
+      },
+      "rateStatista": {
+        "lossRatio": 5000,
+        "compensationPayoutRatio": 5000,
+        "rateOfPlans": [
+          {
+            "planId": "afafad",
+            "planName": "Bảo hiểm sức khỏe",
+            "lossRatio": 7000,
+            "compensationPayoutRatio": 10
+          }
+        ]
+      }
+    }
+  ],
+  "_class": "com.example.happylife.backendhappylife.entity.Statista"
+},
+{
+  "_id": {
+    "$oid": "65ab6732975e1c047c420c03"
+  },
+  "year": 2024,
+  "insuranceStatista": {
+    "numOfInsuranceRegistration": 7037,
+    "numOfExpiredRegistration": 5009,
+    "numOfActiveRegistration": 5020
+  },
+  "claimStatista": {
+    "numOfClaim": 5015,
+    "numOfResolvedClaim": 5016,
+    "numOfPendingClaim": 5015,
+    "totalClaimAmount": 16931429
+  },
+  "avenueStatista": {
+    "totalAvenueFromInsuranceFee": 106959000,
+    "totalProfit": 90032571
+  },
+  "rateStatista": {
+    "lossRatio": 5000,
+    "compensationPayoutRatio": 5000,
+    "rateOfPlans": [
+      {
+        "planId": "afafad",
+        "planName": "Bảo hiểm sức khỏe",
+        "lossRatio": 7000,
+        "compensationPayoutRatio": 10
+      }
+    ]
+  },
+  "monthStatistas": [
+    {
+      "month": 1,
+      "insuranceStatista": {
+        "numOfInsuranceRegistration": 7029,
+        "numOfExpiredRegistration": 5009,
+        "numOfActiveRegistration": 5020
+      },
+      "claimStatista": {
+        "numOfClaim": 5015,
+        "numOfResolvedClaim": 5016,
+        "numOfPendingClaim": 5015,
+        "totalClaimAmount": 16931429
+      },
+      "avenueStatista": {
+        "totalAvenueFromInsuranceFee": 106959000,
+        "totalProfit": 90032571
+      },
+      "rateStatista": {
+        "lossRatio": 5000,
+        "compensationPayoutRatio": 5000,
+        "rateOfPlans": [
+          {
+            "planId": "afafad",
+            "planName": "Bảo hiểm sức khỏe",
+            "lossRatio": 7000,
+            "compensationPayoutRatio": 10
+          }
+        ]
+      }
+    },
+    {
+      "month": 2,
+      "insuranceStatista": {
+        "numOfInsuranceRegistration": 7004,
+        "numOfExpiredRegistration": 5000,
+        "numOfActiveRegistration": 5000
+      },
+      "claimStatista": {
+        "numOfClaim": 5000,
+        "numOfResolvedClaim": 5000,
+        "numOfPendingClaim": 5000,
+        "totalClaimAmount": 5000
+      },
+      "avenueStatista": {
+        "totalAvenueFromInsuranceFee": 5000,
+        "totalProfit": 5000
+      },
+      "rateStatista": {
+        "lossRatio": 5000,
+        "compensationPayoutRatio": 5000,
+        "rateOfPlans": [
+          {
+            "planId": "afafad",
+            "planName": "Bảo hiểm sức khỏe",
+            "lossRatio": 7000,
+            "compensationPayoutRatio": 10
+          }
+        ]
+      }
+    },
+    {
+      "month": 3,
+      "insuranceStatista": {
+        "numOfInsuranceRegistration": 7000,
+        "numOfExpiredRegistration": 5000,
+        "numOfActiveRegistration": 5000
+      },
+      "claimStatista": {
+        "numOfClaim": 5000,
+        "numOfResolvedClaim": 5000,
+        "numOfPendingClaim": 5000,
+        "totalClaimAmount": 5000
+      },
+      "avenueStatista": {
+        "totalAvenueFromInsuranceFee": 5000,
+        "totalProfit": 5000
+      },
+      "rateStatista": {
+        "lossRatio": 5000,
+        "compensationPayoutRatio": 5000,
+        "rateOfPlans": [
+          {
+            "planId": "afafad",
+            "planName": "Bảo hiểm sức khỏe",
+            "lossRatio": 7000,
+            "compensationPayoutRatio": 10
+          }
+        ]
+      }
+    },
+    {
+      "month": 4,
+      "insuranceStatista": {
+        "numOfInsuranceRegistration": 7000,
+        "numOfExpiredRegistration": 5000,
+        "numOfActiveRegistration": 5000
+      },
+      "claimStatista": {
+        "numOfClaim": 5000,
+        "numOfResolvedClaim": 5000,
+        "numOfPendingClaim": 5000,
+        "totalClaimAmount": 5000
+      },
+      "avenueStatista": {
+        "totalAvenueFromInsuranceFee": 5000,
+        "totalProfit": 5000
+      },
+      "rateStatista": {
+        "lossRatio": 5000,
+        "compensationPayoutRatio": 5000,
+        "rateOfPlans": [
+          {
+            "planId": "afafad",
+            "planName": "Bảo hiểm sức khỏe",
+            "lossRatio": 7000,
+            "compensationPayoutRatio": 10
+          }
+        ]
+      }
+    },
+    {
+      "month": 5,
+      "insuranceStatista": {
+        "numOfInsuranceRegistration": 7000,
+        "numOfExpiredRegistration": 5000,
+        "numOfActiveRegistration": 5000
+      },
+      "claimStatista": {
+        "numOfClaim": 5000,
+        "numOfResolvedClaim": 5000,
+        "numOfPendingClaim": 5000,
+        "totalClaimAmount": 5000
+      },
+      "avenueStatista": {
+        "totalAvenueFromInsuranceFee": 5000,
+        "totalProfit": 5000
+      },
+      "rateStatista": {
+        "lossRatio": 5000,
+        "compensationPayoutRatio": 5000,
+        "rateOfPlans": [
+          {
+            "planId": "afafad",
+            "planName": "Bảo hiểm sức khỏe",
+            "lossRatio": 7000,
+            "compensationPayoutRatio": 10
+          }
+        ]
+      }
+    },
+    {
+      "month": 6,
+      "insuranceStatista": {
+        "numOfInsuranceRegistration": 7000,
+        "numOfExpiredRegistration": 5000,
+        "numOfActiveRegistration": 5000
+      },
+      "claimStatista": {
+        "numOfClaim": 5000,
+        "numOfResolvedClaim": 5000,
+        "numOfPendingClaim": 5000,
+        "totalClaimAmount": 5000
+      },
+      "avenueStatista": {
+        "totalAvenueFromInsuranceFee": 5000,
+        "totalProfit": 5000
+      },
+      "rateStatista": {
+        "lossRatio": 5000,
+        "compensationPayoutRatio": 5000,
+        "rateOfPlans": [
+          {
+            "planId": "afafad",
+            "planName": "Bảo hiểm sức khỏe",
+            "lossRatio": 7000,
+            "compensationPayoutRatio": 10
+          }
+        ]
+      }
+    },
+    {
+      "month": 7,
+      "insuranceStatista": {
+        "numOfInsuranceRegistration": 7000,
+        "numOfExpiredRegistration": 5000,
+        "numOfActiveRegistration": 5000
+      },
+      "claimStatista": {
+        "numOfClaim": 5000,
+        "numOfResolvedClaim": 5000,
+        "numOfPendingClaim": 5000,
+        "totalClaimAmount": 5000
+      },
+      "avenueStatista": {
+        "totalAvenueFromInsuranceFee": 5000,
+        "totalProfit": 5000
+      },
+      "rateStatista": {
+        "lossRatio": 5000,
+        "compensationPayoutRatio": 5000,
+        "rateOfPlans": [
+          {
+            "planId": "afafad",
+            "planName": "Bảo hiểm sức khỏe",
+            "lossRatio": 7000,
+            "compensationPayoutRatio": 10
+          }
+        ]
+      }
+    },
+    {
+      "month": 8,
+      "insuranceStatista": {
+        "numOfInsuranceRegistration": 7000,
+        "numOfExpiredRegistration": 5000,
+        "numOfActiveRegistration": 5000
+      },
+      "claimStatista": {
+        "numOfClaim": 5000,
+        "numOfResolvedClaim": 5000,
+        "numOfPendingClaim": 5000,
+        "totalClaimAmount": 5000
+      },
+      "avenueStatista": {
+        "totalAvenueFromInsuranceFee": 5000,
+        "totalProfit": 5000
+      },
+      "rateStatista": {
+        "lossRatio": 5000,
+        "compensationPayoutRatio": 5000,
+        "rateOfPlans": [
+          {
+            "planId": "afafad",
+            "planName": "Bảo hiểm sức khỏe",
+            "lossRatio": 7000,
+            "compensationPayoutRatio": 10
+          }
+        ]
+      }
+    },
+    {
+      "month": 8,
+      "insuranceStatista": {
+        "numOfInsuranceRegistration": 7000,
+        "numOfExpiredRegistration": 5000,
+        "numOfActiveRegistration": 5000
+      },
+      "claimStatista": {
+        "numOfClaim": 5000,
+        "numOfResolvedClaim": 5000,
+        "numOfPendingClaim": 5000,
+        "totalClaimAmount": 5000
+      },
+      "avenueStatista": {
+        "totalAvenueFromInsuranceFee": 5000,
+        "totalProfit": 5000
+      },
+      "rateStatista": {
+        "lossRatio": 5000,
+        "compensationPayoutRatio": 5000,
+        "rateOfPlans": [
+          {
+            "planId": "afafad",
+            "planName": "Bảo hiểm sức khỏe",
+            "lossRatio": 7000,
+            "compensationPayoutRatio": 10
+          }
+        ]
+      }
+    },
+    {
+      "month": 10,
+      "insuranceStatista": {
+        "numOfInsuranceRegistration": 7000,
+        "numOfExpiredRegistration": 5000,
+        "numOfActiveRegistration": 5000
+      },
+      "claimStatista": {
+        "numOfClaim": 5000,
+        "numOfResolvedClaim": 5000,
+        "numOfPendingClaim": 5000,
+        "totalClaimAmount": 5000
+      },
+      "avenueStatista": {
+        "totalAvenueFromInsuranceFee": 5000,
+        "totalProfit": 5000
+      },
+      "rateStatista": {
+        "lossRatio": 5000,
+        "compensationPayoutRatio": 5000,
+        "rateOfPlans": [
+          {
+            "planId": "afafad",
+            "planName": "Bảo hiểm sức khỏe",
+            "lossRatio": 7000,
+            "compensationPayoutRatio": 10
+          }
+        ]
+      }
+    },
+    {
+      "month": 11,
+      "insuranceStatista": {
+        "numOfInsuranceRegistration": 7000,
+        "numOfExpiredRegistration": 5000,
+        "numOfActiveRegistration": 5000
+      },
+      "claimStatista": {
+        "numOfClaim": 5000,
+        "numOfResolvedClaim": 5000,
+        "numOfPendingClaim": 5000,
+        "totalClaimAmount": 5000
+      },
+      "avenueStatista": {
+        "totalAvenueFromInsuranceFee": 5000,
+        "totalProfit": 5000
+      },
+      "rateStatista": {
+        "lossRatio": 5000,
+        "compensationPayoutRatio": 5000,
+        "rateOfPlans": [
+          {
+            "planId": "afafad",
+            "planName": "Bảo hiểm sức khỏe",
+            "lossRatio": 7000,
+            "compensationPayoutRatio": 10
+          }
+        ]
+      }
+    },
+    {
+      "month": 12,
+      "insuranceStatista": {
+        "numOfInsuranceRegistration": 7000,
+        "numOfExpiredRegistration": 5000,
+        "numOfActiveRegistration": 5000
+      },
+      "claimStatista": {
+        "numOfClaim": 5000,
+        "numOfResolvedClaim": 5000,
+        "numOfPendingClaim": 5000,
+        "totalClaimAmount": 5000
+      },
+      "avenueStatista": {
+        "totalAvenueFromInsuranceFee": 5000,
+        "totalProfit": 5000
+      },
+      "rateStatista": {
+        "lossRatio": 5000,
+        "compensationPayoutRatio": 5000,
+        "rateOfPlans": [
+          {
+            "planId": "afafad",
+            "planName": "Bảo hiểm sức khỏe",
+            "lossRatio": 7000,
+            "compensationPayoutRatio": 10
+          }
+        ]
+      }
+    }
+  ],
+  "_class": "com.example.happylife.backendhappylife.entity.Statista"
+}]

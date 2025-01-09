@@ -1,0 +1,111 @@
+     {   
+        "regisInfo": {
+            
+        "regisId": "65abb268b85d687fe9d64067",
+        "customerInfo": {
+            "id": "657d8946c349fe4049fb7c8b",
+            "fullName": "Nguyễn Văn A",
+            "gender": "Male",
+            "phoneNumber": "0344193909",
+            "citizenId": "0000000000000999",
+            "email": "nguyenvana@example.com",
+            "address": "123 Đường B, Quận C, Thành phố D",
+            "avatarUrl": null,
+            "healthStatus": null,
+            "createdAt": null,
+            "updatedAt": null,
+            "role": null,
+            "dob": "2002-07-09T00:00:00.000+00:00"
+        },
+        "productInfo": {
+            "planId": "65aa3b924bed64387343ae84",
+            "planName": "Bảo Hiểm Sức Khỏe",
+            "planAbout": "Trong hành trình cuộc sống, sức khỏe luôn là tài sản quan trọng nhất, đồng hành cùng bạn qua mỗi giai đoạn. Nhận thức được điều này, nhóm 01 tự hào giới thiệu gói bảo hiểm sức khỏe 01, một lựa chọn hoàn hảo để bảo vệ bạn và người thân yêu.\n Gói bảo hiểm sức khỏe của chúng tôi không chỉ cung cấp sự an tâm trong điều trị các bệnh hiểm nghèo mà còn giúp giảm bớt gánh nặng tài chính, đảm bảo bạn có thể tập trung vào quá trình hồi phục và tận hưởng cuộc sống.\n Gói bảo hiểm XX bao gồm các quyền lợi bảo hiểm cơ bản lên đến một mức giá trị ấn tượng, cho phép bạn lựa chọn các cơ sở khám chữa bệnh uy tín trên toàn quốc. Đặc biệt, không yêu cầu khám sức khỏe trước khi tham gia, giúp quá trình đăng ký trở nên nhanh chóng và thuận tiện. Bên cạnh đó, chúng tôi cung cấp các quyền lợi bảo hiểm đa dạng, từ điều trị nội trú đến ngoại trú, bảo hiểm tai nạn cá nhân, sinh mạng, nha khoa và thai sản, đảm bảo một sự bảo vệ toàn diện cho bạn và gia đình.\n Đối tượng tham gia gói bảo hiểm của chúng tôi rất đa dạng, từ công dân Việt Nam đến người nước ngoài cư trú tại Việt Nam, từ trẻ em 15 ngày tuổi đến người lớn 60 tuổi, với khả năng tái tục đến 65 tuổi. Sự linh hoạt này đảm bảo rằng mọi người đều có thể được bảo vệ dưới sự chăm sóc của 01.\n Hãy để nhóm 01 đồng hành cùng, bạn, bảo vệ giá trị quý giá nhất của cuộc sống – sức khỏe, giúp bạn và gia đình luôn an tâm và hạnh phúc.",
+            "planSlogan": null,
+            "planType": [
+                {
+                    "typeName": "Standard",
+                    "totalBenefits": null,
+                    "benefits": [
+                        {
+                            "benefitName": "Bảo hiểm sức khỏe thông dụng",
+                            "dependencies": "age",
+                            "feeType": [
+                                {
+                                    "type": "ageBased",
+                                    "startAge": 4,
+                                    "endAge": 6,
+                                    "fee": 2081000
+                                }
+                            ],
+                            "unit": "VND",
+                            "insuranceAmount": 137600000
+                        }
+                    ]
+                }
+            ],
+            "optionalBenefits": [
+                {
+                    "benefitName": "Điều trị nha khoa",
+                    "dependencies": "age",
+                    "feeType": [
+                        {
+                            "type": "ageBased",
+                            "startAge": 4,
+                            "endAge": 6,
+                            "fee": 600000
+                        }
+                    ],
+                    "unit": "VND",
+                    "insuranceAmount": 93800000
+                }
+            ],
+            "planRecommended": null,
+            "planDuration": 12,
+            "planDurationUnit": "Month",
+            "claimScenarios": null,
+            "documentName": null,
+            "planBenefits": null,
+            "planServiceCoverage": null,
+            "planURL": null,
+            "planAdvertisement": null,
+            "planDocuments": null,
+            "planCreatedAt": null,
+            "planUpdatedAt": null
+        },
+        "managerInfo": null,
+        "price": null,
+        "approvalStatus": "Pending",
+        "startDate": "2024-02-19T11:45:44.872Z",
+        "endDate": "2025-02-19T11:45:44.872Z",
+        "paymentDetails": null,
+        "totalFee": 2681000,
+        "renewalReminder": null,
+        "createdAt": "2024-01-20T11:45:44.872Z",
+        "updatedAt": null,
+        "message": null,
+        "participantHistory": null,
+        "documentUrls": null,
+        "contractIdInfo": null
+    
+        },
+
+        "claimCategories": [
+            "category1",
+            "category2"
+        ],
+
+        "content": "Claim content details here",
+    
+        "claimInvoices": [
+            {
+                "amount": 500.0,
+                "status": "Pending"
+            }
+        ],
+
+
+        "hospitalName": "Hospital XYZ"
+
+    }
+    

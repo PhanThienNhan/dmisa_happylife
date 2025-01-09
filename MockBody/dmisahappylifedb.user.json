@@ -1,0 +1,794 @@
+[{
+  "_id": {
+    "$oid": "6564272f01b5c21cbcb3cbc0"
+  },
+  "fullName": "Nguyen Tuyet Anh",
+  "phoneNumber": "0987654321",
+  "password": "$2a$10$DViyiJjy/mv9/FLoJIp8bepRE0dH84GquH5Mf6/IHU4BMNJmN7lfK",
+  "role": "CUSTOMER",
+  "_class": "com.example.happylife.backendhappylife.entity.User"
+},
+{
+  "_id": {
+    "$oid": "6565591616433655e5ad110f"
+  },
+  "fullName": "Nguyen Tuyet Anh",
+  "DOB": {
+    "$date": "2002-12-12T00:00:00.000Z"
+  },
+  "phoneNumber": "0123456789",
+  "address": "So 1, quan 3, thanh pho HCM",
+  "password": "$2a$10$6Z1p/uHndN9liYRm0vFFJeKcoXlj1QQRXj5bxmfYrLERSdh7QhP1K",
+  "createdAt": {
+    "$date": "2023-11-28T03:05:58.480Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-28T03:05:58.480Z"
+  },
+  "role": "CUSTOMER",
+  "_class": "com.example.happylife.backendhappylife.entity.User"
+},
+{
+  "_id": {
+    "$oid": "65776e1d3b22441a2dad03f6"
+  },
+  "fullName": "Manager",
+  "gender": "Male",
+  "DOB": {
+    "$date": "2002-11-22T00:00:00.000Z"
+  },
+  "phoneNumber": "0123456788",
+  "address": "KTX khu A",
+  "password": "123456",
+  "createdAt": {
+    "$date": "2023-12-11T20:16:29.658Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-11T20:16:29.658Z"
+  },
+  "_class": "com.example.happylife.backendhappylife.entity.User"
+},
+{
+  "_id": {
+    "$oid": "657770573b22441a2dad03ff"
+  },
+  "fullName": "Manager",
+  "gender": "Male",
+  "DOB": {
+    "$date": "2002-11-22T00:00:00.000Z"
+  },
+  "phoneNumber": "0123456786",
+  "address": "KTX khu A",
+  "password": "123456",
+  "createdAt": {
+    "$date": "2023-12-11T20:25:59.925Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-11T20:25:59.925Z"
+  },
+  "_class": "com.example.happylife.backendhappylife.entity.User"
+},
+{
+  "_id": {
+    "$oid": "657770b73b22441a2dad0400"
+  },
+  "fullName": "Manager",
+  "gender": "Male",
+  "DOB": {
+    "$date": "2002-11-22T00:00:00.000Z"
+  },
+  "phoneNumber": "0123456780",
+  "address": "KTX khu A",
+  "password": "123456",
+  "createdAt": {
+    "$date": "2023-12-11T20:27:35.352Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-11T20:27:35.352Z"
+  },
+  "_class": "com.example.happylife.backendhappylife.entity.User"
+},
+{
+  "_id": {
+    "$oid": "657771593b22441a2dad0403"
+  },
+  "fullName": "Manager",
+  "gender": "Male",
+  "DOB": {
+    "$date": "2002-11-22T00:00:00.000Z"
+  },
+  "phoneNumber": "0123456781",
+  "address": "KTX khu A",
+  "password": "123456",
+  "createdAt": {
+    "$date": "2023-12-11T20:30:17.748Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-11T20:30:17.748Z"
+  },
+  "role": "CUSTOMER",
+  "_class": "com.example.happylife.backendhappylife.entity.User"
+},
+{
+  "_id": {
+    "$oid": "6577721f3b22441a2dad0407"
+  },
+  "fullName": "Manager",
+  "gender": "Male",
+  "DOB": {
+    "$date": "2002-11-22T00:00:00.000Z"
+  },
+  "phoneNumber": "0123456782",
+  "address": "KTX khu A",
+  "password": "123456",
+  "createdAt": {
+    "$date": "2023-12-11T20:33:35.090Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-11T20:33:35.090Z"
+  },
+  "role": "CUSTOMER",
+  "_class": "com.example.happylife.backendhappylife.entity.User"
+},
+{
+  "_id": {
+    "$oid": "6577738e3b22441a2dad040c"
+  },
+  "fullName": "Nguyen Tuyet Anh",
+  "DOB": {
+    "$date": "2002-12-12T00:00:00.000Z"
+  },
+  "phoneNumber": "0123456783",
+  "address": "So 1, quan 3, thanh pho HCM",
+  "password": "$2a$10$d7pWWT5XNS13sIH9weVJRees6i6Szly97fKjMxNBJi/JTLF10Pboq",
+  "createdAt": {
+    "$date": "2023-12-11T20:39:42.159Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-11T20:39:42.159Z"
+  },
+  "role": "INSUARANCE_MANAGER",
+  "_class": "com.example.happylife.backendhappylife.entity.User"
+},
+{
+  "_id": {
+    "$oid": "6579c71c1f74792b3b41f04a"
+  },
+  "fullName": "Nguyen Tuyet Anh",
+  "DOB": {
+    "$date": "2002-12-12T00:00:00.000Z"
+  },
+  "phoneNumber": "0123456784",
+  "citizenId": "1234123421",
+  "address": "So 1, quan 3, thanh pho HCM",
+  "password": "$2a$10$2N5VBG286dprob.G9JefVepINOMZiFLIrZrXpFBa9hdfWhuBBVKGa",
+  "createdAt": {
+    "$date": "2023-12-13T15:00:44.184Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-13T15:00:44.184Z"
+  },
+  "role": "CUSTOMER",
+  "_class": "com.example.happylife.backendhappylife.entity.User"
+},
+{
+  "_id": {
+    "$oid": "657c890f100bce39583a20c5"
+  },
+  "fullName": "Phan Thien Nhan",
+  "DOB": {
+    "$date": "2001-01-01T00:00:00.000Z"
+  },
+  "phoneNumber": "0344193999",
+  "address": "Ho Chi Minh Viet Nam",
+  "password": "$2a$10$Dd.5Lry3P.H23cXqOMpwgO5bdUFDQfCJcBl8EgUY/bwLvnEeOVqCC",
+  "createdAt": {
+    "$date": "2023-12-15T17:12:47.577Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-15T17:12:47.577Z"
+  },
+  "role": "CUSTOMER",
+  "_class": "com.example.happylife.backendhappylife.entity.User"
+},
+{
+  "_id": {
+    "$oid": "657c892c100bce39583a20c6"
+  },
+  "fullName": "Phan Nhan",
+  "DOB": {
+    "$date": "2001-01-01T00:00:00.000Z"
+  },
+  "phoneNumber": "0343193999",
+  "address": "Ho Chi Minh Viet Nam",
+  "password": "$2a$10$9FG.PxPfeJFC7.EddX4VPOhDnnS69HgU2eyu5JoQznYrhGihEO7ia",
+  "createdAt": {
+    "$date": "2023-12-15T17:13:16.145Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-15T17:13:16.145Z"
+  },
+  "role": "CUSTOMER",
+  "_class": "com.example.happylife.backendhappylife.entity.User"
+},
+{
+  "_id": {
+    "$oid": "657c8c0a100bce39583a20c7"
+  },
+  "fullName": "Fix duoc bug roi",
+  "DOB": {
+    "$date": "2002-11-11T00:00:00.000Z"
+  },
+  "phoneNumber": "0333193909",
+  "address": "HCM VN",
+  "password": "$2a$10$3ncZh74amj0b4vk/YS0JRO/cK/L7MFgR9hM.nDUmVQbCMD7HL6fFu",
+  "createdAt": {
+    "$date": "2023-12-15T17:25:30.035Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-15T17:25:30.035Z"
+  },
+  "role": "CUSTOMER",
+  "_class": "com.example.happylife.backendhappylife.entity.User"
+},
+{
+  "_id": {
+    "$oid": "657d8946c349fe4049fb7c8b"
+  },
+  "fullName": "Nguyễn Văn C",
+  "gender": "Male",
+  "DOB": {
+    "$date": "2002-07-09T00:00:00.000Z"
+  },
+  "phoneNumber": "0344193909",
+  "citizenId": "123456",
+  "email": "nguyenvanc@example.com",
+  "address": "123 Đường B, Quận C, Thành phố E",
+  "password": "$2a$10$jnBRC1q8XgpWQAyE4g.S4uo2hc9QnucMZ.vAoWzBPBFHnA7MRtuPe",
+  "healthStatus": {
+    "updatedAt": {
+      "$date": "2024-01-25T11:31:36.823Z"
+    },
+    "details": [
+      "https://firebasestorage.googleapis.com/v0/b/dmisa-410407.appspot.com/o/e9d1eb9e-1cea-4fe2-b80d-56a28f4aadb9-371306080_1767949680304747_3341593819730531131_n.jpg?alt=media&token=dmisa-410407.appspot.com/e9d1eb9e-1cea-4fe2-b80d-56a28f4aadb9-371306080_1767949680304747_3341593819730531131_n.jpg/1706096935009042",
+      "https://firebasestorage.googleapis.com/v0/b/dmisa-410407.appspot.com/o/143a3c0d-2058-4cd5-a16c-7d4697792a26-332500913_908562360485483_4493923830219640890_n.jpg?alt=media&token=dmisa-410407.appspot.com/143a3c0d-2058-4cd5-a16c-7d4697792a26-332500913_908562360485483_4493923830219640890_n.jpg/1706096935599360",
+      "https://firebasestorage.googleapis.com/v0/b/dmisa-410407.appspot.com/o/736c04c7-9f99-4b9f-8892-a4d260548567-InsuranceContract.pdf?alt=media",
+      "https://firebasestorage.googleapis.com/v0/b/dmisa-410407.appspot.com/o/fd6adb86-9b98-4aac-b69e-c6cdce4cac3c-1296280.jpg?alt=media&token=dmisa-410407.appspot.com/fd6adb86-9b98-4aac-b69e-c6cdce4cac3c-1296280.jpg/1706097190269203",
+      "https://firebasestorage.googleapis.com/v0/b/dmisa-410407.appspot.com/o/08e5cb25-3576-4cb9-9f23-e986c5250906-send.png?alt=media&token=dmisa-410407.appspot.com/08e5cb25-3576-4cb9-9f23-e986c5250906-send.png/1706097302861623",
+      "https://firebasestorage.googleapis.com/v0/b/dmisa-410407.appspot.com/o/9b43103e-43bc-4a4b-93b0-de98aae53e51-BangDiem.pdf?alt=media",
+      "https://firebasestorage.googleapis.com/v0/b/dmisa-410407.appspot.com/o/86878819-b565-4f85-8941-abbc23dcd740-send.png?alt=media&token=dmisa-410407.appspot.com/86878819-b565-4f85-8941-abbc23dcd740-send.png/1706097544927023",
+      "https://firebasestorage.googleapis.com/v0/b/dmisa-410407.appspot.com/o/59fa9710-d13e-4972-96b6-02e135bc0f24-03.-Bieu-dien-so-cham-dong+%281%29.pdf?alt=media",
+      "https://firebasestorage.googleapis.com/v0/b/dmisa-410407.appspot.com/o/1a79c02f-d163-4f93-a64a-ccaa4c27fa25-03.-Bieu-dien-so-cham-dong+%281%29.pdf?alt=media",
+      "https://firebasestorage.googleapis.com/v0/b/dmisa-410407.appspot.com/o/4116c2eb-90a0-4607-9381-b1940398f609-03.-Bieu-dien-so-cham-dong+%281%29.pdf?alt=media",
+      "https://firebasestorage.googleapis.com/v0/b/dmisa-410407.appspot.com/o/7f8454da-1da3-4ead-80a7-c1bdef84b2db-370362620_1493684578112159_9077037949102453682_n.jpg?alt=media&token=dmisa-410407.appspot.com/7f8454da-1da3-4ead-80a7-c1bdef84b2db-370362620_1493684578112159_9077037949102453682_n.jpg/1706182296259387"
+    ]
+  },
+  "createdAt": {
+    "$date": "2023-12-16T11:25:58.270Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-25T12:02:42.749Z"
+  },
+  "role": "CUSTOMER",
+  "_class": "com.example.happylife.backendhappylife.entity.User"
+},
+{
+  "_id": {
+    "$oid": "65a41da662a5a41f3c626dda"
+  },
+  "fullName": "ThienNhan",
+  "DOB": {
+    "$date": "2002-12-01T00:00:00.000Z"
+  },
+  "phoneNumber": "9876543210",
+  "citizenId": "12341320",
+  "address": "An Giang",
+  "password": "$2a$10$mcZ8w6bQX6QjcWWCibB1NOoxZu11Rmmw0FtgNhxJinqCuoIzlK8rO",
+  "createdAt": {
+    "$date": "2024-01-14T17:45:08.969Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-14T17:45:08.969Z"
+  },
+  "role": "CUSTOMER",
+  "_class": "com.example.happylife.backendhappylife.entity.User"
+},
+{
+  "_id": {
+    "$oid": "65a4215562a5a41f3c626ddb"
+  },
+  "fullName": "Phan Thiện Nhân",
+  "DOB": {
+    "$date": "2002-12-01T00:00:00.000Z"
+  },
+  "phoneNumber": "0344193000",
+  "citizenId": "12332000",
+  "address": "HCM VN",
+  "password": "$2a$10$2K6fkvdeIp0d1hZRTCGz2OYj2B9gCGcbLqhpgPSJ1yOJ7Qlc4z2Ni",
+  "createdAt": {
+    "$date": "2024-01-14T18:00:52.501Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-14T18:00:52.501Z"
+  },
+  "role": "CUSTOMER",
+  "_class": "com.example.happylife.backendhappylife.entity.User"
+},
+{
+  "_id": {
+    "$oid": "65a4231362a5a41f3c626ddc"
+  },
+  "fullName": "Phan Thiện Nhân 2",
+  "DOB": {
+    "$date": "2002-12-01T00:00:00.000Z"
+  },
+  "phoneNumber": "0344193911",
+  "citizenId": "12332111",
+  "address": "HCM VN",
+  "password": "$2a$10$mhLp6lnBDmTEdOwd6IEIX.zAourYmIf2WElUTeGHthMDOsz9r8DJK",
+  "createdAt": {
+    "$date": "2024-01-14T18:08:19.678Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-14T18:08:19.678Z"
+  },
+  "role": "CUSTOMER",
+  "_class": "com.example.happylife.backendhappylife.entity.User"
+},
+{
+  "_id": {
+    "$oid": "65a4245962a5a41f3c626ddd"
+  },
+  "fullName": "Phan Thiện Nhân 3",
+  "DOB": {
+    "$date": "2002-12-01T00:00:00.000Z"
+  },
+  "phoneNumber": "0344193922",
+  "citizenId": "12332122",
+  "address": "HCM VN",
+  "password": "$2a$10$KpUmmF7iRl.z/D0rMpjWzukXI89SKa91/VUfdQ21/kvlS.KEDPAC2",
+  "createdAt": {
+    "$date": "2024-01-14T18:13:44.927Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-14T18:13:44.927Z"
+  },
+  "role": "CUSTOMER",
+  "_class": "com.example.happylife.backendhappylife.entity.User"
+},
+{
+  "_id": {
+    "$oid": "65a424af62a5a41f3c626dde"
+  },
+  "fullName": "Phan Thiện Nhân 4",
+  "DOB": {
+    "$date": "2002-12-01T00:00:00.000Z"
+  },
+  "phoneNumber": "0344193933",
+  "citizenId": "12332133",
+  "address": "HCM VN",
+  "password": "$2a$10$uN7I0o6GQY7aH02Dcdf2euXIRcgjl87TTpKBNofLjmEfwMQIESZBq",
+  "createdAt": {
+    "$date": "2024-01-14T18:15:11.689Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-14T18:15:11.689Z"
+  },
+  "role": "CUSTOMER",
+  "_class": "com.example.happylife.backendhappylife.entity.User"
+},
+{
+  "_id": {
+    "$oid": "65a4251362a5a41f3c626ddf"
+  },
+  "fullName": "Phan Thiện Nhân 5",
+  "DOB": {
+    "$date": "2002-12-01T00:00:00.000Z"
+  },
+  "phoneNumber": "0344193944",
+  "citizenId": "12332144",
+  "address": "HCM VN",
+  "password": "$2a$10$OPR7.dj9mpezhhWozap8uu6VzhUVM1nkJ0Hfpt9FHqeIC92Th991.",
+  "createdAt": {
+    "$date": "2024-01-14T18:16:50.939Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-14T18:16:50.939Z"
+  },
+  "role": "CUSTOMER",
+  "_class": "com.example.happylife.backendhappylife.entity.User"
+},
+{
+  "_id": {
+    "$oid": "65a4253862a5a41f3c626de0"
+  },
+  "fullName": "Phan Thiện Nhân 5",
+  "DOB": {
+    "$date": "2002-12-01T00:00:00.000Z"
+  },
+  "phoneNumber": "0344193955",
+  "citizenId": "12345677",
+  "address": "HCM VN",
+  "password": "$2a$10$An7KYD6rIoVs8MyzvgJkTue65dCO0Hs3L.XApBFm1zdEXZv8kO9oi",
+  "createdAt": {
+    "$date": "2024-01-14T18:17:28.092Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-14T18:17:28.092Z"
+  },
+  "role": "ACCOUNTANT",
+  "_class": "com.example.happylife.backendhappylife.entity.User"
+},
+{
+  "_id": {
+    "$oid": "65a427ef62a5a41f3c626de2"
+  },
+  "fullName": "Phan Thiện Nhân 6",
+  "DOB": {
+    "$date": "2002-12-01T00:00:00.000Z"
+  },
+  "phoneNumber": "0344193966",
+  "citizenId": "12345688",
+  "address": "HCM VN",
+  "password": "$2a$10$W6WVRsjHIz78q8WacZehHefOe1CFVw1NMVG1egUlwoDCNgmzIXnwy",
+  "createdAt": {
+    "$date": "2024-01-14T18:29:03.233Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-14T18:29:03.233Z"
+  },
+  "role": "CUSTOMER",
+  "_class": "com.example.happylife.backendhappylife.entity.User"
+},
+{
+  "_id": {
+    "$oid": "65a4282062a5a41f3c626de3"
+  },
+  "fullName": "Phan Thiện Nhân 7",
+  "DOB": {
+    "$date": "2002-12-30T00:00:00.000Z"
+  },
+  "phoneNumber": "0344193977",
+  "citizenId": "12345699",
+  "address": "HCM VN",
+  "password": "$2a$10$rn2gMm3MDLMhjMVNOChOSeHwTD2tdHc7X3pkaWd/ShJW99V862xnq",
+  "createdAt": {
+    "$date": "2024-01-14T18:29:52.676Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-14T18:29:52.676Z"
+  },
+  "role": "CUSTOMER",
+  "_class": "com.example.happylife.backendhappylife.entity.User"
+},
+{
+  "_id": {
+    "$oid": "65a42d6062a5a41f3c626de5"
+  },
+  "fullName": "Phan Thiện Nhân 10",
+  "DOB": {
+    "$date": "2003-10-06T00:00:00.000Z"
+  },
+  "phoneNumber": "0012221200",
+  "citizenId": "12345603",
+  "address": "HCM VN",
+  "password": "$2a$10$mwPwicIHmyR5RW/458fTSuoISHQt/2Dncz2kwebeXGTKA5XoO8hje",
+  "createdAt": {
+    "$date": "2024-01-14T18:52:16.373Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-14T18:52:16.373Z"
+  },
+  "role": "CUSTOMER",
+  "_class": "com.example.happylife.backendhappylife.entity.User"
+},
+{
+  "_id": {
+    "$oid": "65a4387462a5a41f3c626de7"
+  },
+  "fullName": "Phan Thiện Nhân 11",
+  "DOB": {
+    "$date": "2004-01-14T00:00:00.000Z"
+  },
+  "phoneNumber": "0344191111",
+  "citizenId": "12330002",
+  "address": "HCM VN",
+  "password": "$2a$10$SHkxm2iEPmRMI.Y1cCtEh./a83gN2Z1EsB.w1fyxENliF8zFrYQbK",
+  "createdAt": {
+    "$date": "2024-01-14T19:39:31.800Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-14T19:39:31.800Z"
+  },
+  "role": "CUSTOMER",
+  "_class": "com.example.happylife.backendhappylife.entity.User"
+},
+{
+  "_id": {
+    "$oid": "65a438e462a5a41f3c626de8"
+  },
+  "fullName": "Phan Thiện Nhân 12",
+  "DOB": {
+    "$date": "2003-01-14T00:00:00.000Z"
+  },
+  "phoneNumber": "0344191112",
+  "citizenId": "12330003",
+  "address": "HCM VN",
+  "password": "$2a$10$lP2TN/LB3fgjkevhbXa8seCyjJLuh57uHyMcaggC605BeeYoWb.Xm",
+  "createdAt": {
+    "$date": "2024-01-14T19:41:24.310Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-14T19:41:24.310Z"
+  },
+  "role": "CUSTOMER",
+  "_class": "com.example.happylife.backendhappylife.entity.User"
+},
+{
+  "_id": {
+    "$oid": "65a4390262a5a41f3c626de9"
+  },
+  "fullName": "Phan Thiện Nhân 13",
+  "DOB": {
+    "$date": "2002-05-15T00:00:00.000Z"
+  },
+  "phoneNumber": "0344191114",
+  "citizenId": "12330004",
+  "address": "HCM VN",
+  "password": "$2a$10$jw1CMAa3mk6krqFKP/1zCeKELuslAbMgbUpuREo23RDMnNP4PxEyS",
+  "createdAt": {
+    "$date": "2024-01-14T19:41:53.924Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-14T19:41:53.924Z"
+  },
+  "role": "CUSTOMER",
+  "_class": "com.example.happylife.backendhappylife.entity.User"
+},
+{
+  "_id": {
+    "$oid": "65aa5c00356abccf6d5e551d"
+  },
+  "fullName": "Phan Thiện Nhân 5",
+  "DOB": {
+    "$date": "2002-12-01T00:00:00.000Z"
+  },
+  "phoneNumber": "034214193955",
+  "citizenId": "12345677",
+  "address": "HCM VN",
+  "password": "$2a$10$An7KYD6rIoVs8MyzvgJkTue65dCO0Hs3L.XApBFm1zdEXZv8kO9oi",
+  "createdAt": {
+    "$date": "2024-01-14T18:17:28.092Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-14T18:17:28.092Z"
+  },
+  "role": "ACCOUNTANT",
+  "_class": "com.example.happylife.backendhappylife.entity.User"
+},
+{
+  "_id": {
+    "$oid": "65ab8e95d0778c2c4bc2fb6c"
+  },
+  "fullName": "PHAN THIEN NHAN",
+  "DOB": {
+    "$date": "2002-06-12T00:00:00.000Z"
+  },
+  "phoneNumber": "0344193902",
+  "citizenId": "352687111",
+  "address": "HCM VN",
+  "password": "$2a$10$COgoYCR/YfFoZSl5kB0D8.o3KWOBpTv4opUsH614OGsZf7xlc.NLO",
+  "createdAt": {
+    "$date": "2024-01-20T09:12:53.089Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-20T09:12:53.089Z"
+  },
+  "role": "CUSTOMER",
+  "_class": "com.example.happylife.backendhappylife.entity.User"
+},
+{
+  "_id": {
+    "$oid": "65ab8f09d0778c2c4bc2fb6d"
+  },
+  "fullName": "Nhan Thien Phan",
+  "DOB": {
+    "$date": "2005-01-14T00:00:00.000Z"
+  },
+  "phoneNumber": "0344193903",
+  "citizenId": "352687222",
+  "address": "HCM VN",
+  "password": "$2a$10$tBVKRAZLFmlwjZ1jLo1LZeUoZCzUoI1Wy.rYj9h0aNnbaCZIdIzS.",
+  "createdAt": {
+    "$date": "2024-01-20T09:14:49.323Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-20T09:14:49.323Z"
+  },
+  "role": "CUSTOMER",
+  "_class": "com.example.happylife.backendhappylife.entity.User"
+},
+{
+  "_id": {
+    "$oid": "65ab9308d0778c2c4bc2fb6e"
+  },
+  "fullName": "PhanThienNhanLaiBugRoi",
+  "DOB": {
+    "$date": "2002-11-01T00:00:00.000Z"
+  },
+  "phoneNumber": "0344193904",
+  "citizenId": "352687111",
+  "address": "An Giang",
+  "password": "$2a$10$CPK88/y7rz2BHYfSRZwOF.xCK.U0Ic5TmuSED1oV5o3EYhqrWsXeW",
+  "createdAt": {
+    "$date": "2024-01-20T09:31:52.002Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-20T09:31:52.002Z"
+  },
+  "role": "CUSTOMER",
+  "_class": "com.example.happylife.backendhappylife.entity.User"
+},
+{
+  "_id": {
+    "$oid": "65acdd9eb5312a6682c6a285"
+  },
+  "fullName": "Nhan",
+  "gender": "Male",
+  "DOB": {
+    "$date": "2002-04-30T00:00:00.000Z"
+  },
+  "phoneNumber": "0344193808",
+  "citizenId": "123450",
+  "email": "nhan@gmail.com",
+  "address": "HCM",
+  "password": "$2a$10$qG99oMmRHGrYJmbaa9Q4CeI/wJBgNawSglHaLLuKHiKQB73TITPXK",
+  "createdAt": {
+    "$date": "2024-01-21T09:02:22.390Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-21T09:02:22.390Z"
+  },
+  "role": "CUSTOMER",
+  "_class": "com.example.happylife.backendhappylife.entity.User"
+},
+{
+  "_id": {
+    "$oid": "65acde61b5312a6682c6a286"
+  },
+  "fullName": "Nhamm",
+  "gender": "Male",
+  "DOB": {
+    "$date": "2002-01-15T00:00:00.000Z"
+  },
+  "phoneNumber": "0344193800",
+  "citizenId": "",
+  "email": "nhan@gmail.com",
+  "address": "HCM",
+  "password": "$2a$10$BXjs/KpjAn.yRZdQablMzODj8nqqEWlbspMWl93jP50kml915vBZi",
+  "createdAt": {
+    "$date": "2024-01-21T09:05:36.931Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-21T09:05:36.931Z"
+  },
+  "role": "CUSTOMER",
+  "_class": "com.example.happylife.backendhappylife.entity.User"
+},
+{
+  "_id": {
+    "$oid": "65ace5d4fd9f3642928b9352"
+  },
+  "fullName": "20120249_20120349",
+  "gender": "Male",
+  "DOB": {
+    "$date": {
+      "$numberLong": "-62170156800000"
+    }
+  },
+  "phoneNumber": "0834678755",
+  "citizenId": "124124",
+  "email": "huuphuc1256@gmail.com",
+  "address": "số 3, Lê Quý Đôn, Phường 1, thành phố Cao Lãnh, Đồng Tháp",
+  "password": "$2a$10$fgsZMsV9JN8fcScIHvCdaekBlfeCo5.vQpnbFn2eamfVoP4lQb6f6",
+  "createdAt": {
+    "$date": "2024-01-21T09:37:24.546Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-21T09:37:24.546Z"
+  },
+  "role": "CUSTOMER",
+  "_class": "com.example.happylife.backendhappylife.entity.User"
+},
+{
+  "_id": {
+    "$oid": "65acef1d5e415a6bfd96d736"
+  },
+  "fullName": "20120249_20120349",
+  "gender": "Male",
+  "DOB": {
+    "$date": "2024-01-02T00:00:00.000Z"
+  },
+  "phoneNumber": "0834678756",
+  "citizenId": "124124",
+  "email": "huuphu@c1256gmail.com",
+  "address": "số 3, Lê Quý Đôn, Phường 1, thành phố Cao Lãnh, Đồng Tháp",
+  "password": "$2a$10$VkgPQatKp7xYskBM45X.b.xZV3EScg7Xvy6Z0Y6phB0eZO13Md1fm",
+  "createdAt": {
+    "$date": "2024-01-21T10:17:01.455Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-21T10:17:01.455Z"
+  },
+  "role": "CUSTOMER",
+  "_class": "com.example.happylife.backendhappylife.entity.User"
+},
+{
+  "_id": {
+    "$oid": "65b0e39e01c36804d18c44b9"
+  },
+  "fullName": "0344193900",
+  "gender": "Male",
+  "DOB": {
+    "$date": "2024-01-11T00:00:00.000Z"
+  },
+  "phoneNumber": "0834678713",
+  "citizenId": "",
+  "email": "huuphuc1256@gmail.com",
+  "address": "số 3, Lê Quý Đôn, Phường 1, thành phố Cao Lãnh, Đồng Tháp",
+  "password": "$2a$10$JH9eOG.zDEb0TpXlLBk0jednQn/sNhKBUOxfisjL8j1y4D8Xmp8UC",
+  "createdAt": {
+    "$date": "2024-01-24T10:17:02.838Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-24T10:17:02.838Z"
+  },
+  "role": "CUSTOMER",
+  "_class": "com.example.happylife.backendhappylife.entity.User"
+},
+{
+  "_id": {
+    "$oid": "65b249aa98f4e307b687e851"
+  },
+  "fullName": "NhanTesst",
+  "gender": "Male",
+  "DOB": {
+    "$date": "2007-01-16T00:00:00.000Z"
+  },
+  "phoneNumber": "0344193707",
+  "citizenId": "123456",
+  "email": "nhan@gmail.com",
+  "address": "HCM",
+  "password": "$2a$10$ayoOr9hf0QzGWvqLtcCHoe2O.0lhmFxBTRo6f3NlUaGiZlBDwHILS",
+  "createdAt": {
+    "$date": "2024-01-25T11:44:42.029Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-25T11:44:42.029Z"
+  },
+  "role": "CUSTOMER",
+  "_class": "com.example.happylife.backendhappylife.entity.User"
+},
+{
+  "_id": {
+    "$oid": "65b24b4098f4e307b687e852"
+  },
+  "fullName": "NhanTesst",
+  "gender": "Male",
+  "DOB": {
+    "$date": "2007-01-10T00:00:00.000Z"
+  },
+  "phoneNumber": "0344193709",
+  "citizenId": "123456",
+  "email": "nhan@gmail.com",
+  "address": "HCM",
+  "password": "$2a$10$qY7PbfH1IozPdnt9xiaEr.5IC9xr78DBcwdHPBKiA2wDcMzSXmQw2",
+  "createdAt": {
+    "$date": "2024-01-25T11:51:27.898Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-25T11:51:27.898Z"
+  },
+  "role": "CUSTOMER",
+  "_class": "com.example.happylife.backendhappylife.entity.User"
+}]

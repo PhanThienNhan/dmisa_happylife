@@ -1,0 +1,1335 @@
+[{
+  "_id": {
+    "$oid": "65b239466368fc00f347ee00"
+  },
+  "customerInfo": {
+    "_id": {
+      "$oid": "657d8946c349fe4049fb7c8b"
+    },
+    "fullName": "Nguyễn Văn C",
+    "gender": "Male",
+    "DOB": {
+      "$date": "2002-07-09T00:00:00.000Z"
+    },
+    "phoneNumber": "0344193909",
+    "citizenId": "123456",
+    "email": "nguyenvanc@example.com",
+    "address": "123 Đường B, Quận C, Thành phố E"
+  },
+  "productInfo": {
+    "planId": "65acede0a680637ecb9af06c",
+    "planName": "Health Insurance",
+    "planAbout": "In life's journey, health is always the most important asset, accompanying you through each stage. Realizing this, Team 01 proudly introduces Health Insurance Plan 01, a perfect choice to protect you and your loved ones. Our health insurance plan not only provides peace of mind in treating serious illnesses but also helps reduce financial burdens, ensuring you can focus on recovery and enjoy life. The XX Insurance Package includes basic insurance benefits up to an impressive value, allowing you to choose reputable medical facilities nationwide. Especially, no health check is required before participation, making the registration process quick and convenient. In addition, we offer a variety of insurance benefits, from inpatient to outpatient treatment, personal accident insurance, life, dental, and maternity, ensuring comprehensive protection for you and your family. Our insurance package is very diverse, from Vietnamese citizens to foreigners residing in Vietnam, from 15-day-old children to 60-year-old adults, with the ability to renew up to 65 years old. This flexibility ensures that everyone can be protected under the care of 01. Let Team 01 accompany you, protect the most valuable asset of life - health, helping you and your family always feel secure and happy",
+    "planType": [
+      {
+        "benefits": [
+          {
+            "dependencies": "age",
+            "feeType": [
+              {
+                "startAge": 7,
+                "endAge": 9,
+                "fee": 1900000,
+                "_class": "com.example.happylife.backendhappylife.entity.Plan$AgeBasedFee"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "optionalBenefits": [
+      {
+        "benefitName": "Outpatient Treatment",
+        "dependencies": "age",
+        "feeType": [
+          {
+            "startAge": 7,
+            "endAge": 9,
+            "fee": 1720000,
+            "_class": "com.example.happylife.backendhappylife.entity.Plan$AgeBasedFee"
+          }
+        ],
+        "unit": "Million VND",
+        "insuranceAmount": "93.8"
+      }
+    ],
+    "planDuration": 12,
+    "planDurationUnit": "Month"
+  },
+  "approvalStatus": "Paid",
+  "startDate": {
+    "$date": "2024-02-24T10:34:46.436Z"
+  },
+  "endDate": {
+    "$date": "2025-02-24T10:34:46.436Z"
+  },
+  "totalFee": 3620000,
+  "createdAt": {
+    "$date": "2024-01-25T10:34:46.436Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-25T11:42:44.312Z"
+  },
+  "message": [
+    {
+      "dateMessage": {
+        "$date": "2024-01-25T10:34:46.436Z"
+      },
+      "content": "Your registration is pending. Please wait for the manager to confirm the registration!"
+    },
+    {
+      "dateMessage": {
+        "$date": "2024-01-25T11:05:09.658Z"
+      },
+      "content": "Your registration has been accepted. Please review the contract and confirm it before continuing."
+    },
+    {
+      "dateMessage": {
+        "$date": "2024-01-25T11:42:36.436Z"
+      },
+      "content": "Signed contract successfully. Now you can cash for this registration!"
+    },
+    {
+      "dateMessage": {
+        "$date": "2024-01-25T11:42:44.205Z"
+      },
+      "content": "You have pay the invoice successfully!"
+    }
+  ],
+  "contractIdInfo": {
+    "contractId": "65b2406598f4e307b687e84e",
+    "regisInfo": {
+      "regisId": "65b239466368fc00f347ee00",
+      "customerInfo": {
+        "_id": {
+          "$oid": "657d8946c349fe4049fb7c8b"
+        },
+        "fullName": "Nguyễn Văn C",
+        "gender": "Male",
+        "DOB": {
+          "$date": "2002-07-09T00:00:00.000Z"
+        },
+        "phoneNumber": "0344193909",
+        "citizenId": "123456",
+        "email": "nguyenvanc@example.com",
+        "address": "123 Đường B, Quận C, Thành phố E"
+      },
+      "productInfo": {
+        "planId": "65acede0a680637ecb9af06c",
+        "planName": "Health Insurance",
+        "planAbout": "In life's journey, health is always the most important asset, accompanying you through each stage. Realizing this, Team 01 proudly introduces Health Insurance Plan 01, a perfect choice to protect you and your loved ones. Our health insurance plan not only provides peace of mind in treating serious illnesses but also helps reduce financial burdens, ensuring you can focus on recovery and enjoy life. The XX Insurance Package includes basic insurance benefits up to an impressive value, allowing you to choose reputable medical facilities nationwide. Especially, no health check is required before participation, making the registration process quick and convenient. In addition, we offer a variety of insurance benefits, from inpatient to outpatient treatment, personal accident insurance, life, dental, and maternity, ensuring comprehensive protection for you and your family. Our insurance package is very diverse, from Vietnamese citizens to foreigners residing in Vietnam, from 15-day-old children to 60-year-old adults, with the ability to renew up to 65 years old. This flexibility ensures that everyone can be protected under the care of 01. Let Team 01 accompany you, protect the most valuable asset of life - health, helping you and your family always feel secure and happy",
+        "planType": [
+          {
+            "benefits": [
+              {
+                "dependencies": "age",
+                "feeType": [
+                  {
+                    "startAge": 7,
+                    "endAge": 9,
+                    "fee": 1900000,
+                    "_class": "com.example.happylife.backendhappylife.entity.Plan$AgeBasedFee"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "optionalBenefits": [
+          {
+            "benefitName": "Outpatient Treatment",
+            "dependencies": "age",
+            "feeType": [
+              {
+                "startAge": 7,
+                "endAge": 9,
+                "fee": 1720000,
+                "_class": "com.example.happylife.backendhappylife.entity.Plan$AgeBasedFee"
+              }
+            ],
+            "unit": "Million VND",
+            "insuranceAmount": "93.8"
+          }
+        ],
+        "planDuration": 12,
+        "planDurationUnit": "Month"
+      },
+      "approvalStatus": "Approved",
+      "startDate": {
+        "$date": "2024-02-24T10:34:46.436Z"
+      },
+      "endDate": {
+        "$date": "2025-02-24T10:34:46.436Z"
+      },
+      "totalFee": 3620000,
+      "createdAt": {
+        "$date": "2024-01-25T10:34:46.436Z"
+      },
+      "message": [
+        {
+          "dateMessage": {
+            "$date": "2024-01-25T10:34:46.436Z"
+          },
+          "content": "Your registration is pending. Please wait for the manager to confirm the registration!"
+        }
+      ],
+      "documentUrls": [
+        {
+          "docCategory": "Insurant:",
+          "urls": [
+            "https://firebasestorage.googleapis.com/v0/b/dmisa-410407.appspot.com/o/bd7a9278-3949-4b74-9718-dede0b454a22-200w.gif?alt=media&token=dmisa-410407.appspot.com/bd7a9278-3949-4b74-9718-dede0b454a22-200w.gif/1706178888049023"
+          ]
+        }
+      ]
+    },
+    "status": "Awaiting",
+    "confirmation": false,
+    "content": [
+      "https://firebasestorage.googleapis.com/v0/b/dmisa-410407.appspot.com/o/InsuranceContract.pdf?alt=media&token=cd28a638-4db5-4c9a-b990-32866a57f513"
+    ],
+    "createdAt": {
+      "$date": "2024-01-25T11:05:09.758Z"
+    }
+  },
+  "documentUrls": [
+    {
+      "docCategory": "Insurant:",
+      "urls": [
+        "https://firebasestorage.googleapis.com/v0/b/dmisa-410407.appspot.com/o/bd7a9278-3949-4b74-9718-dede0b454a22-200w.gif?alt=media&token=dmisa-410407.appspot.com/bd7a9278-3949-4b74-9718-dede0b454a22-200w.gif/1706178888049023"
+      ]
+    }
+  ],
+  "_class": "com.example.happylife.backendhappylife.entity.Registration"
+},
+{
+  "_id": {
+    "$oid": "65b247f1184c9c58eb577548"
+  },
+  "customerInfo": {
+    "_id": {
+      "$oid": "657d8946c349fe4049fb7c8b"
+    },
+    "fullName": "Nguyễn Văn C",
+    "gender": "Male",
+    "DOB": {
+      "$date": "2002-07-09T00:00:00.000Z"
+    },
+    "phoneNumber": "0344193909",
+    "citizenId": "123456",
+    "email": "nguyenvanc@example.com",
+    "address": "123 Đường B, Quận C, Thành phố E"
+  },
+  "productInfo": {
+    "planId": "65acede0a680637ecb9af06c",
+    "planName": "Health Insurance",
+    "planAbout": "In life's journey, health is always the most important asset, accompanying you through each stage. Realizing this, Team 01 proudly introduces Health Insurance Plan 01, a perfect choice to protect you and your loved ones. Our health insurance plan not only provides peace of mind in treating serious illnesses but also helps reduce financial burdens, ensuring you can focus on recovery and enjoy life. The XX Insurance Package includes basic insurance benefits up to an impressive value, allowing you to choose reputable medical facilities nationwide. Especially, no health check is required before participation, making the registration process quick and convenient. In addition, we offer a variety of insurance benefits, from inpatient to outpatient treatment, personal accident insurance, life, dental, and maternity, ensuring comprehensive protection for you and your family. Our insurance package is very diverse, from Vietnamese citizens to foreigners residing in Vietnam, from 15-day-old children to 60-year-old adults, with the ability to renew up to 65 years old. This flexibility ensures that everyone can be protected under the care of 01. Let Team 01 accompany you, protect the most valuable asset of life - health, helping you and your family always feel secure and happy",
+    "planType": [
+      {
+        "benefits": [
+          {
+            "dependencies": "age",
+            "feeType": [
+              {
+                "startAge": 4,
+                "endAge": 6,
+                "fee": 1450000,
+                "_class": "com.example.happylife.backendhappylife.entity.Plan$AgeBasedFee"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "optionalBenefits": [
+      {
+        "benefitName": "Dental Treatment",
+        "dependencies": "age",
+        "feeType": [
+          {
+            "startAge": 4,
+            "endAge": 6,
+            "fee": 600000,
+            "_class": "com.example.happylife.backendhappylife.entity.Plan$AgeBasedFee"
+          }
+        ],
+        "unit": "Million VND",
+        "insuranceAmount": "93.8"
+      },
+      {
+        "benefitName": "Personal Accident",
+        "dependencies": "insuranceAmount",
+        "feeType": [
+          {
+            "fee": 450000,
+            "insuranceAmount": "500 Million VND",
+            "_class": "com.example.happylife.backendhappylife.entity.Plan$InsuranceBasedFee"
+          }
+        ],
+        "unit": "Million VND",
+        "insuranceAmount": "93.8"
+      }
+    ],
+    "planDuration": 12,
+    "planDurationUnit": "Month"
+  },
+  "approvalStatus": "Paid",
+  "startDate": {
+    "$date": "2024-02-24T11:37:21.214Z"
+  },
+  "endDate": {
+    "$date": "2025-02-24T11:37:21.214Z"
+  },
+  "totalFee": 2500000,
+  "createdAt": {
+    "$date": "2024-01-25T11:37:21.214Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-25T18:31:37.846Z"
+  },
+  "message": [
+    {
+      "dateMessage": {
+        "$date": "2024-01-25T11:37:21.214Z"
+      },
+      "content": "Your registration is pending. Please wait for the manager to confirm the registration!"
+    },
+    {
+      "dateMessage": {
+        "$date": "2024-01-25T11:44:42.487Z"
+      },
+      "content": "Your registration has been accepted. Please review the contract and confirm it before continuing."
+    },
+    {
+      "dateMessage": {
+        "$date": "2024-01-25T11:46:17.871Z"
+      },
+      "content": "Your registration has been revoked."
+    },
+    {
+      "dateMessage": {
+        "$date": "2024-01-25T12:07:09.808Z"
+      },
+      "content": "Signed contract successfully. Now you can cash for this registration!"
+    },
+    {
+      "dateMessage": {
+        "$date": "2024-01-25T18:31:37.736Z"
+      },
+      "content": "You have pay the invoice successfully!"
+    }
+  ],
+  "contractIdInfo": {
+    "contractId": "65b249aa184c9c58eb577558",
+    "regisInfo": {
+      "regisId": "65b247f1184c9c58eb577548",
+      "customerInfo": {
+        "_id": {
+          "$oid": "657d8946c349fe4049fb7c8b"
+        },
+        "fullName": "Nguyễn Văn C",
+        "gender": "Male",
+        "DOB": {
+          "$date": "2002-07-09T00:00:00.000Z"
+        },
+        "phoneNumber": "0344193909",
+        "citizenId": "123456",
+        "email": "nguyenvanc@example.com",
+        "address": "123 Đường B, Quận C, Thành phố E"
+      },
+      "productInfo": {
+        "planId": "65acede0a680637ecb9af06c",
+        "planName": "Health Insurance",
+        "planAbout": "In life's journey, health is always the most important asset, accompanying you through each stage. Realizing this, Team 01 proudly introduces Health Insurance Plan 01, a perfect choice to protect you and your loved ones. Our health insurance plan not only provides peace of mind in treating serious illnesses but also helps reduce financial burdens, ensuring you can focus on recovery and enjoy life. The XX Insurance Package includes basic insurance benefits up to an impressive value, allowing you to choose reputable medical facilities nationwide. Especially, no health check is required before participation, making the registration process quick and convenient. In addition, we offer a variety of insurance benefits, from inpatient to outpatient treatment, personal accident insurance, life, dental, and maternity, ensuring comprehensive protection for you and your family. Our insurance package is very diverse, from Vietnamese citizens to foreigners residing in Vietnam, from 15-day-old children to 60-year-old adults, with the ability to renew up to 65 years old. This flexibility ensures that everyone can be protected under the care of 01. Let Team 01 accompany you, protect the most valuable asset of life - health, helping you and your family always feel secure and happy",
+        "planType": [
+          {
+            "benefits": [
+              {
+                "dependencies": "age",
+                "feeType": [
+                  {
+                    "startAge": 4,
+                    "endAge": 6,
+                    "fee": 1450000,
+                    "_class": "com.example.happylife.backendhappylife.entity.Plan$AgeBasedFee"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "optionalBenefits": [
+          {
+            "benefitName": "Dental Treatment",
+            "dependencies": "age",
+            "feeType": [
+              {
+                "startAge": 4,
+                "endAge": 6,
+                "fee": 600000,
+                "_class": "com.example.happylife.backendhappylife.entity.Plan$AgeBasedFee"
+              }
+            ],
+            "unit": "Million VND",
+            "insuranceAmount": "93.8"
+          },
+          {
+            "benefitName": "Personal Accident",
+            "dependencies": "insuranceAmount",
+            "feeType": [
+              {
+                "fee": 450000,
+                "insuranceAmount": "500 Million VND",
+                "_class": "com.example.happylife.backendhappylife.entity.Plan$InsuranceBasedFee"
+              }
+            ],
+            "unit": "Million VND",
+            "insuranceAmount": "93.8"
+          }
+        ],
+        "planDuration": 12,
+        "planDurationUnit": "Month"
+      },
+      "approvalStatus": "Approved",
+      "startDate": {
+        "$date": "2024-02-24T11:37:21.214Z"
+      },
+      "endDate": {
+        "$date": "2025-02-24T11:37:21.214Z"
+      },
+      "totalFee": 2500000,
+      "createdAt": {
+        "$date": "2024-01-25T11:37:21.214Z"
+      },
+      "message": [
+        {
+          "dateMessage": {
+            "$date": "2024-01-25T11:37:21.214Z"
+          },
+          "content": "Your registration is pending. Please wait for the manager to confirm the registration!"
+        }
+      ]
+    },
+    "status": "Cancelled",
+    "confirmation": false,
+    "content": [
+      "https://firebasestorage.googleapis.com/v0/b/dmisa-410407.appspot.com/o/InsuranceContract.pdf?alt=media&token=cd28a638-4db5-4c9a-b990-32866a57f513"
+    ],
+    "createdAt": {
+      "$date": "2024-01-25T11:44:42.610Z"
+    }
+  },
+  "_class": "com.example.happylife.backendhappylife.entity.Registration"
+},
+{
+  "_id": {
+    "$oid": "65b24b6cf21b380142123a71"
+  },
+  "customerInfo": {
+    "_id": {
+      "$oid": "657d8946c349fe4049fb7c8b"
+    },
+    "fullName": "Nguyễn Văn C",
+    "gender": "Male",
+    "DOB": {
+      "$date": "2002-07-09T00:00:00.000Z"
+    },
+    "phoneNumber": "0344193909",
+    "citizenId": "123456",
+    "email": "nguyenvanc@example.com",
+    "address": "123 Đường B, Quận C, Thành phố E"
+  },
+  "productInfo": {
+    "planId": "65acede0a680637ecb9af06c",
+    "planName": "Health Insurance",
+    "planAbout": "In life's journey, health is always the most important asset, accompanying you through each stage. Realizing this, Team 01 proudly introduces Health Insurance Plan 01, a perfect choice to protect you and your loved ones. Our health insurance plan not only provides peace of mind in treating serious illnesses but also helps reduce financial burdens, ensuring you can focus on recovery and enjoy life. The XX Insurance Package includes basic insurance benefits up to an impressive value, allowing you to choose reputable medical facilities nationwide. Especially, no health check is required before participation, making the registration process quick and convenient. In addition, we offer a variety of insurance benefits, from inpatient to outpatient treatment, personal accident insurance, life, dental, and maternity, ensuring comprehensive protection for you and your family. Our insurance package is very diverse, from Vietnamese citizens to foreigners residing in Vietnam, from 15-day-old children to 60-year-old adults, with the ability to renew up to 65 years old. This flexibility ensures that everyone can be protected under the care of 01. Let Team 01 accompany you, protect the most valuable asset of life - health, helping you and your family always feel secure and happy",
+    "planType": [
+      {
+        "benefits": [
+          {
+            "dependencies": "age",
+            "feeType": [
+              {
+                "startAge": 4,
+                "endAge": 6,
+                "fee": 2081000,
+                "_class": "com.example.happylife.backendhappylife.entity.Plan$AgeBasedFee"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "optionalBenefits": [],
+    "planDuration": 12,
+    "planDurationUnit": "Month"
+  },
+  "approvalStatus": "Approved",
+  "startDate": {
+    "$date": "2024-02-24T11:52:12.070Z"
+  },
+  "endDate": {
+    "$date": "2025-02-24T11:52:12.070Z"
+  },
+  "totalFee": 2081000,
+  "createdAt": {
+    "$date": "2024-01-25T11:52:12.070Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-25T11:52:12.070Z"
+  },
+  "message": [
+    {
+      "dateMessage": {
+        "$date": "2024-01-25T11:52:12.070Z"
+      },
+      "content": "Your registration is pending. Please wait for the manager to confirm the registration!"
+    },
+    {
+      "dateMessage": {
+        "$date": "2024-01-25T14:07:16.474Z"
+      },
+      "content": "Your registration has been accepted. Please review the contract and confirm it before continuing."
+    }
+  ],
+  "contractIdInfo": {
+    "contractId": "65b26b14cc7f0c070f8b7e26",
+    "regisInfo": {
+      "regisId": "65b24b6cf21b380142123a71",
+      "customerInfo": {
+        "_id": {
+          "$oid": "657d8946c349fe4049fb7c8b"
+        },
+        "fullName": "Nguyễn Văn C",
+        "gender": "Male",
+        "DOB": {
+          "$date": "2002-07-09T00:00:00.000Z"
+        },
+        "phoneNumber": "0344193909",
+        "citizenId": "123456",
+        "email": "nguyenvanc@example.com",
+        "address": "123 Đường B, Quận C, Thành phố E"
+      },
+      "productInfo": {
+        "planId": "65acede0a680637ecb9af06c",
+        "planName": "Health Insurance",
+        "planAbout": "In life's journey, health is always the most important asset, accompanying you through each stage. Realizing this, Team 01 proudly introduces Health Insurance Plan 01, a perfect choice to protect you and your loved ones. Our health insurance plan not only provides peace of mind in treating serious illnesses but also helps reduce financial burdens, ensuring you can focus on recovery and enjoy life. The XX Insurance Package includes basic insurance benefits up to an impressive value, allowing you to choose reputable medical facilities nationwide. Especially, no health check is required before participation, making the registration process quick and convenient. In addition, we offer a variety of insurance benefits, from inpatient to outpatient treatment, personal accident insurance, life, dental, and maternity, ensuring comprehensive protection for you and your family. Our insurance package is very diverse, from Vietnamese citizens to foreigners residing in Vietnam, from 15-day-old children to 60-year-old adults, with the ability to renew up to 65 years old. This flexibility ensures that everyone can be protected under the care of 01. Let Team 01 accompany you, protect the most valuable asset of life - health, helping you and your family always feel secure and happy",
+        "planType": [
+          {
+            "benefits": [
+              {
+                "dependencies": "age",
+                "feeType": [
+                  {
+                    "startAge": 4,
+                    "endAge": 6,
+                    "fee": 2081000,
+                    "_class": "com.example.happylife.backendhappylife.entity.Plan$AgeBasedFee"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "optionalBenefits": [],
+        "planDuration": 12,
+        "planDurationUnit": "Month"
+      },
+      "approvalStatus": "Approved",
+      "startDate": {
+        "$date": "2024-02-24T11:52:12.070Z"
+      },
+      "endDate": {
+        "$date": "2025-02-24T11:52:12.070Z"
+      },
+      "totalFee": 2081000,
+      "createdAt": {
+        "$date": "2024-01-25T11:52:12.070Z"
+      },
+      "message": [
+        {
+          "dateMessage": {
+            "$date": "2024-01-25T11:52:12.070Z"
+          },
+          "content": "Your registration is pending. Please wait for the manager to confirm the registration!"
+        }
+      ]
+    },
+    "status": "Awaiting",
+    "confirmation": false,
+    "content": [
+      "https://firebasestorage.googleapis.com/v0/b/dmisa-410407.appspot.com/o/InsuranceContract.pdf?alt=media&token=cd28a638-4db5-4c9a-b990-32866a57f513"
+    ],
+    "createdAt": {
+      "$date": "2024-01-25T14:07:16.578Z"
+    }
+  },
+  "_class": "com.example.happylife.backendhappylife.entity.Registration"
+},
+{
+  "_id": {
+    "$oid": "65b24b78f21b380142123a72"
+  },
+  "customerInfo": {
+    "_id": {
+      "$oid": "657d8946c349fe4049fb7c8b"
+    },
+    "fullName": "Nguyễn Văn C",
+    "gender": "Male",
+    "DOB": {
+      "$date": "2002-07-09T00:00:00.000Z"
+    },
+    "phoneNumber": "0344193909",
+    "citizenId": "123456",
+    "email": "nguyenvanc@example.com",
+    "address": "123 Đường B, Quận C, Thành phố E"
+  },
+  "productInfo": {
+    "planId": "65acede0a680637ecb9af06c",
+    "planName": "Health Insurance",
+    "planAbout": "In life's journey, health is always the most important asset, accompanying you through each stage. Realizing this, Team 01 proudly introduces Health Insurance Plan 01, a perfect choice to protect you and your loved ones. Our health insurance plan not only provides peace of mind in treating serious illnesses but also helps reduce financial burdens, ensuring you can focus on recovery and enjoy life. The XX Insurance Package includes basic insurance benefits up to an impressive value, allowing you to choose reputable medical facilities nationwide. Especially, no health check is required before participation, making the registration process quick and convenient. In addition, we offer a variety of insurance benefits, from inpatient to outpatient treatment, personal accident insurance, life, dental, and maternity, ensuring comprehensive protection for you and your family. Our insurance package is very diverse, from Vietnamese citizens to foreigners residing in Vietnam, from 15-day-old children to 60-year-old adults, with the ability to renew up to 65 years old. This flexibility ensures that everyone can be protected under the care of 01. Let Team 01 accompany you, protect the most valuable asset of life - health, helping you and your family always feel secure and happy",
+    "planType": [
+      {
+        "benefits": [
+          {
+            "dependencies": "age",
+            "feeType": [
+              {
+                "startAge": 7,
+                "endAge": 9,
+                "fee": 1900000,
+                "_class": "com.example.happylife.backendhappylife.entity.Plan$AgeBasedFee"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "optionalBenefits": [],
+    "planDuration": 12,
+    "planDurationUnit": "Month"
+  },
+  "approvalStatus": "Signed",
+  "startDate": {
+    "$date": "2024-02-24T11:52:24.026Z"
+  },
+  "endDate": {
+    "$date": "2025-02-24T11:52:24.026Z"
+  },
+  "totalFee": 1900000,
+  "createdAt": {
+    "$date": "2024-01-25T11:52:24.026Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-25T14:06:44.456Z"
+  },
+  "message": [
+    {
+      "dateMessage": {
+        "$date": "2024-01-25T11:52:24.026Z"
+      },
+      "content": "Your registration is pending. Please wait for the manager to confirm the registration!"
+    },
+    {
+      "dateMessage": {
+        "$date": "2024-01-25T13:44:48.408Z"
+      },
+      "content": "Your registration has been accepted. Please review the contract and confirm it before continuing."
+    },
+    {
+      "dateMessage": {
+        "$date": "2024-01-25T14:06:44.002Z"
+      },
+      "content": "Signed contract successfully. Now you can cash for this registration!"
+    }
+  ],
+  "contractIdInfo": {
+    "contractId": "65b265d0cc7f0c070f8b7e1e",
+    "regisInfo": {
+      "regisId": "65b24b78f21b380142123a72",
+      "customerInfo": {
+        "_id": {
+          "$oid": "657d8946c349fe4049fb7c8b"
+        },
+        "fullName": "Nguyễn Văn C",
+        "gender": "Male",
+        "DOB": {
+          "$date": "2002-07-09T00:00:00.000Z"
+        },
+        "phoneNumber": "0344193909",
+        "citizenId": "123456",
+        "email": "nguyenvanc@example.com",
+        "address": "123 Đường B, Quận C, Thành phố E"
+      },
+      "productInfo": {
+        "planId": "65acede0a680637ecb9af06c",
+        "planName": "Health Insurance",
+        "planAbout": "In life's journey, health is always the most important asset, accompanying you through each stage. Realizing this, Team 01 proudly introduces Health Insurance Plan 01, a perfect choice to protect you and your loved ones. Our health insurance plan not only provides peace of mind in treating serious illnesses but also helps reduce financial burdens, ensuring you can focus on recovery and enjoy life. The XX Insurance Package includes basic insurance benefits up to an impressive value, allowing you to choose reputable medical facilities nationwide. Especially, no health check is required before participation, making the registration process quick and convenient. In addition, we offer a variety of insurance benefits, from inpatient to outpatient treatment, personal accident insurance, life, dental, and maternity, ensuring comprehensive protection for you and your family. Our insurance package is very diverse, from Vietnamese citizens to foreigners residing in Vietnam, from 15-day-old children to 60-year-old adults, with the ability to renew up to 65 years old. This flexibility ensures that everyone can be protected under the care of 01. Let Team 01 accompany you, protect the most valuable asset of life - health, helping you and your family always feel secure and happy",
+        "planType": [
+          {
+            "benefits": [
+              {
+                "dependencies": "age",
+                "feeType": [
+                  {
+                    "startAge": 7,
+                    "endAge": 9,
+                    "fee": 1900000,
+                    "_class": "com.example.happylife.backendhappylife.entity.Plan$AgeBasedFee"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "optionalBenefits": [],
+        "planDuration": 12,
+        "planDurationUnit": "Month"
+      },
+      "approvalStatus": "Approved",
+      "startDate": {
+        "$date": "2024-02-24T11:52:24.026Z"
+      },
+      "endDate": {
+        "$date": "2025-02-24T11:52:24.026Z"
+      },
+      "totalFee": 1900000,
+      "createdAt": {
+        "$date": "2024-01-25T11:52:24.026Z"
+      },
+      "message": [
+        {
+          "dateMessage": {
+            "$date": "2024-01-25T11:52:24.026Z"
+          },
+          "content": "Your registration is pending. Please wait for the manager to confirm the registration!"
+        }
+      ],
+      "documentUrls": [
+        {
+          "docCategory": "Insurant:",
+          "urls": [
+            "https://firebasestorage.googleapis.com/v0/b/dmisa-410407.appspot.com/o/982c4061-88cd-4f4b-a1c1-e43e87a13ca3-send.png?alt=media&token=dmisa-410407.appspot.com/982c4061-88cd-4f4b-a1c1-e43e87a13ca3-send.png/1706183545432909"
+          ]
+        }
+      ]
+    },
+    "status": "Awaiting",
+    "confirmation": false,
+    "content": [
+      "https://firebasestorage.googleapis.com/v0/b/dmisa-410407.appspot.com/o/InsuranceContract.pdf?alt=media&token=cd28a638-4db5-4c9a-b990-32866a57f513"
+    ],
+    "createdAt": {
+      "$date": "2024-01-25T13:44:48.851Z"
+    }
+  },
+  "documentUrls": [
+    {
+      "docCategory": "Insurant:",
+      "urls": [
+        "https://firebasestorage.googleapis.com/v0/b/dmisa-410407.appspot.com/o/982c4061-88cd-4f4b-a1c1-e43e87a13ca3-send.png?alt=media&token=dmisa-410407.appspot.com/982c4061-88cd-4f4b-a1c1-e43e87a13ca3-send.png/1706183545432909"
+      ]
+    }
+  ],
+  "_class": "com.example.happylife.backendhappylife.entity.Registration"
+},
+{
+  "_id": {
+    "$oid": "65b270f6cc7f0c070f8b7e28"
+  },
+  "customerInfo": {
+    "_id": {
+      "$oid": "657d8946c349fe4049fb7c8b"
+    },
+    "fullName": "Nguyễn Văn C",
+    "gender": "Male",
+    "DOB": {
+      "$date": "2002-07-09T00:00:00.000Z"
+    },
+    "phoneNumber": "0344193909",
+    "citizenId": "123456",
+    "email": "nguyenvanc@example.com",
+    "address": "123 Đường B, Quận C, Thành phố E"
+  },
+  "productInfo": {
+    "planId": "65acede0a680637ecb9af06c",
+    "planName": "Health Insurance",
+    "planAbout": "In life's journey, health is always the most important asset, accompanying you through each stage. Realizing this, Team 01 proudly introduces Health Insurance Plan 01, a perfect choice to protect you and your loved ones. Our health insurance plan not only provides peace of mind in treating serious illnesses but also helps reduce financial burdens, ensuring you can focus on recovery and enjoy life. The XX Insurance Package includes basic insurance benefits up to an impressive value, allowing you to choose reputable medical facilities nationwide. Especially, no health check is required before participation, making the registration process quick and convenient. In addition, we offer a variety of insurance benefits, from inpatient to outpatient treatment, personal accident insurance, life, dental, and maternity, ensuring comprehensive protection for you and your family. Our insurance package is very diverse, from Vietnamese citizens to foreigners residing in Vietnam, from 15-day-old children to 60-year-old adults, with the ability to renew up to 65 years old. This flexibility ensures that everyone can be protected under the care of 01. Let Team 01 accompany you, protect the most valuable asset of life - health, helping you and your family always feel secure and happy",
+    "planType": [
+      {
+        "benefits": [
+          {
+            "dependencies": "age",
+            "feeType": [
+              {
+                "startAge": 7,
+                "endAge": 9,
+                "fee": 1900000,
+                "_class": "com.example.happylife.backendhappylife.entity.Plan$AgeBasedFee"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "optionalBenefits": [
+      {
+        "benefitName": "Dental Treatment",
+        "dependencies": "age",
+        "feeType": [
+          {
+            "startAge": 7,
+            "endAge": 9,
+            "fee": 600000,
+            "_class": "com.example.happylife.backendhappylife.entity.Plan$AgeBasedFee"
+          }
+        ],
+        "unit": "Million VND",
+        "insuranceAmount": "93.8"
+      }
+    ],
+    "planDuration": 12,
+    "planDurationUnit": "Month"
+  },
+  "approvalStatus": "Signed",
+  "startDate": {
+    "$date": "2024-02-24T14:32:22.754Z"
+  },
+  "endDate": {
+    "$date": "2025-02-24T14:32:22.754Z"
+  },
+  "totalFee": 2500000,
+  "createdAt": {
+    "$date": "2024-01-25T14:32:22.754Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-25T18:31:26.169Z"
+  },
+  "message": [
+    {
+      "dateMessage": {
+        "$date": "2024-01-25T14:32:22.754Z"
+      },
+      "content": "Your registration is pending. Please wait for the manager to confirm the registration!"
+    },
+    {
+      "dateMessage": {
+        "$date": "2024-01-25T18:30:39.303Z"
+      },
+      "content": "Your registration has been accepted. Please review the contract and confirm it before continuing."
+    },
+    {
+      "dateMessage": {
+        "$date": "2024-01-25T18:31:26.121Z"
+      },
+      "content": "Signed contract successfully. Now you can cash for this registration!"
+    }
+  ],
+  "contractIdInfo": {
+    "contractId": "65b2a8cf110d812b678adfdc",
+    "regisInfo": {
+      "regisId": "65b270f6cc7f0c070f8b7e28",
+      "customerInfo": {
+        "_id": {
+          "$oid": "657d8946c349fe4049fb7c8b"
+        },
+        "fullName": "Nguyễn Văn C",
+        "gender": "Male",
+        "DOB": {
+          "$date": "2002-07-09T00:00:00.000Z"
+        },
+        "phoneNumber": "0344193909",
+        "citizenId": "123456",
+        "email": "nguyenvanc@example.com",
+        "address": "123 Đường B, Quận C, Thành phố E"
+      },
+      "productInfo": {
+        "planId": "65acede0a680637ecb9af06c",
+        "planName": "Health Insurance",
+        "planAbout": "In life's journey, health is always the most important asset, accompanying you through each stage. Realizing this, Team 01 proudly introduces Health Insurance Plan 01, a perfect choice to protect you and your loved ones. Our health insurance plan not only provides peace of mind in treating serious illnesses but also helps reduce financial burdens, ensuring you can focus on recovery and enjoy life. The XX Insurance Package includes basic insurance benefits up to an impressive value, allowing you to choose reputable medical facilities nationwide. Especially, no health check is required before participation, making the registration process quick and convenient. In addition, we offer a variety of insurance benefits, from inpatient to outpatient treatment, personal accident insurance, life, dental, and maternity, ensuring comprehensive protection for you and your family. Our insurance package is very diverse, from Vietnamese citizens to foreigners residing in Vietnam, from 15-day-old children to 60-year-old adults, with the ability to renew up to 65 years old. This flexibility ensures that everyone can be protected under the care of 01. Let Team 01 accompany you, protect the most valuable asset of life - health, helping you and your family always feel secure and happy",
+        "planType": [
+          {
+            "benefits": [
+              {
+                "dependencies": "age",
+                "feeType": [
+                  {
+                    "startAge": 7,
+                    "endAge": 9,
+                    "fee": 1900000,
+                    "_class": "com.example.happylife.backendhappylife.entity.Plan$AgeBasedFee"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "optionalBenefits": [
+          {
+            "benefitName": "Dental Treatment",
+            "dependencies": "age",
+            "feeType": [
+              {
+                "startAge": 7,
+                "endAge": 9,
+                "fee": 600000,
+                "_class": "com.example.happylife.backendhappylife.entity.Plan$AgeBasedFee"
+              }
+            ],
+            "unit": "Million VND",
+            "insuranceAmount": "93.8"
+          }
+        ],
+        "planDuration": 12,
+        "planDurationUnit": "Month"
+      },
+      "approvalStatus": "Approved",
+      "startDate": {
+        "$date": "2024-02-24T14:32:22.754Z"
+      },
+      "endDate": {
+        "$date": "2025-02-24T14:32:22.754Z"
+      },
+      "totalFee": 2500000,
+      "createdAt": {
+        "$date": "2024-01-25T14:32:22.754Z"
+      },
+      "message": [
+        {
+          "dateMessage": {
+            "$date": "2024-01-25T14:32:22.754Z"
+          },
+          "content": "Your registration is pending. Please wait for the manager to confirm the registration!"
+        }
+      ],
+      "documentUrls": [
+        {
+          "docCategory": "Insurant:",
+          "urls": [
+            "https://firebasestorage.googleapis.com/v0/b/dmisa-410407.appspot.com/o/ea1e0cc3-c4ed-4624-b9d5-0bef96257319-send.png?alt=media&token=dmisa-410407.appspot.com/ea1e0cc3-c4ed-4624-b9d5-0bef96257319-send.png/1706193142625691"
+          ]
+        }
+      ]
+    },
+    "status": "Awaiting",
+    "confirmation": false,
+    "content": [
+      "https://firebasestorage.googleapis.com/v0/b/dmisa-410407.appspot.com/o/InsuranceContract.pdf?alt=media&token=cd28a638-4db5-4c9a-b990-32866a57f513"
+    ],
+    "createdAt": {
+      "$date": "2024-01-25T18:30:39.420Z"
+    }
+  },
+  "documentUrls": [
+    {
+      "docCategory": "Insurant:",
+      "urls": [
+        "https://firebasestorage.googleapis.com/v0/b/dmisa-410407.appspot.com/o/ea1e0cc3-c4ed-4624-b9d5-0bef96257319-send.png?alt=media&token=dmisa-410407.appspot.com/ea1e0cc3-c4ed-4624-b9d5-0bef96257319-send.png/1706193142625691"
+      ]
+    }
+  ],
+  "_class": "com.example.happylife.backendhappylife.entity.Registration"
+},
+{
+  "_id": {
+    "$oid": "65b2a530110d812b678adfd9"
+  },
+  "customerInfo": {
+    "_id": {
+      "$oid": "657d8946c349fe4049fb7c8b"
+    },
+    "fullName": "Nguyễn Văn C",
+    "gender": "Male",
+    "DOB": {
+      "$date": "2002-07-09T00:00:00.000Z"
+    },
+    "phoneNumber": "0344193909",
+    "citizenId": "123456",
+    "email": "nguyenvanc@example.com",
+    "address": "123 Đường B, Quận C, Thành phố E"
+  },
+  "productInfo": {
+    "planId": "65acede0a680637ecb9af06c",
+    "planName": "Health Insurance",
+    "planAbout": "In life's journey, health is always the most important asset, accompanying you through each stage. Realizing this, Team 01 proudly introduces Health Insurance Plan 01, a perfect choice to protect you and your loved ones. Our health insurance plan not only provides peace of mind in treating serious illnesses but also helps reduce financial burdens, ensuring you can focus on recovery and enjoy life. The XX Insurance Package includes basic insurance benefits up to an impressive value, allowing you to choose reputable medical facilities nationwide. Especially, no health check is required before participation, making the registration process quick and convenient. In addition, we offer a variety of insurance benefits, from inpatient to outpatient treatment, personal accident insurance, life, dental, and maternity, ensuring comprehensive protection for you and your family. Our insurance package is very diverse, from Vietnamese citizens to foreigners residing in Vietnam, from 15-day-old children to 60-year-old adults, with the ability to renew up to 65 years old. This flexibility ensures that everyone can be protected under the care of 01. Let Team 01 accompany you, protect the most valuable asset of life - health, helping you and your family always feel secure and happy",
+    "planType": [
+      {
+        "benefits": [
+          {
+            "dependencies": "age",
+            "feeType": [
+              {
+                "startAge": 41,
+                "endAge": 50,
+                "fee": 2990000,
+                "_class": "com.example.happylife.backendhappylife.entity.Plan$AgeBasedFee"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "optionalBenefits": [
+      {
+        "benefitName": "Outpatient Treatment",
+        "dependencies": "age",
+        "feeType": [
+          {
+            "startAge": 41,
+            "endAge": 50,
+            "fee": 1794000,
+            "_class": "com.example.happylife.backendhappylife.entity.Plan$AgeBasedFee"
+          }
+        ],
+        "unit": "Million VND",
+        "insuranceAmount": "93.8"
+      },
+      {
+        "benefitName": "Personal Accident",
+        "dependencies": "insuranceAmount",
+        "feeType": [
+          {
+            "fee": 450000,
+            "insuranceAmount": "500 Million VND",
+            "_class": "com.example.happylife.backendhappylife.entity.Plan$InsuranceBasedFee"
+          }
+        ],
+        "unit": "Million VND",
+        "insuranceAmount": "93.8"
+      }
+    ],
+    "planDuration": 12,
+    "planDurationUnit": "Month"
+  },
+  "approvalStatus": "Pending",
+  "startDate": {
+    "$date": "2024-02-24T18:15:12.769Z"
+  },
+  "endDate": {
+    "$date": "2025-02-24T18:15:12.769Z"
+  },
+  "totalFee": 5340000,
+  "createdAt": {
+    "$date": "2024-01-25T18:15:12.769Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-25T18:15:13.672Z"
+  },
+  "message": [
+    {
+      "dateMessage": {
+        "$date": "2024-01-25T18:15:12.769Z"
+      },
+      "content": "Your registration is pending. Please wait for the manager to confirm the registration!"
+    }
+  ],
+  "documentUrls": [
+    {
+      "docCategory": "Insurant:",
+      "urls": [
+        "https://firebasestorage.googleapis.com/v0/b/dmisa-410407.appspot.com/o/673a0efe-6859-4429-9c40-a0368e1313d8-Deliverables+Check+list+%281%29.docx?alt=media&token=dmisa-410407.appspot.com/673a0efe-6859-4429-9c40-a0368e1313d8-Deliverables Check list (1).docx/1706206513052352"
+      ]
+    }
+  ],
+  "_class": "com.example.happylife.backendhappylife.entity.Registration"
+},
+{
+  "_id": {
+    "$oid": "65b2a842110d812b678adfda"
+  },
+  "customerInfo": {
+    "_id": {
+      "$oid": "657d8946c349fe4049fb7c8b"
+    },
+    "fullName": "Nguyễn Văn C",
+    "gender": "Male",
+    "DOB": {
+      "$date": "2002-07-09T00:00:00.000Z"
+    },
+    "phoneNumber": "0344193909",
+    "citizenId": "123456",
+    "email": "nguyenvanc@example.com",
+    "address": "123 Đường B, Quận C, Thành phố E"
+  },
+  "productInfo": {
+    "planId": "65acede0a680637ecb9af06c",
+    "planName": "Health Insurance",
+    "planAbout": "In life's journey, health is always the most important asset, accompanying you through each stage. Realizing this, Team 01 proudly introduces Health Insurance Plan 01, a perfect choice to protect you and your loved ones. Our health insurance plan not only provides peace of mind in treating serious illnesses but also helps reduce financial burdens, ensuring you can focus on recovery and enjoy life. The XX Insurance Package includes basic insurance benefits up to an impressive value, allowing you to choose reputable medical facilities nationwide. Especially, no health check is required before participation, making the registration process quick and convenient. In addition, we offer a variety of insurance benefits, from inpatient to outpatient treatment, personal accident insurance, life, dental, and maternity, ensuring comprehensive protection for you and your family. Our insurance package is very diverse, from Vietnamese citizens to foreigners residing in Vietnam, from 15-day-old children to 60-year-old adults, with the ability to renew up to 65 years old. This flexibility ensures that everyone can be protected under the care of 01. Let Team 01 accompany you, protect the most valuable asset of life - health, helping you and your family always feel secure and happy",
+    "planType": [
+      {
+        "benefits": [
+          {
+            "dependencies": "age",
+            "feeType": [
+              {
+                "startAge": 41,
+                "endAge": 50,
+                "fee": 1973400,
+                "_class": "com.example.happylife.backendhappylife.entity.Plan$AgeBasedFee"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "optionalBenefits": [
+      {
+        "benefitName": "Outpatient Treatment",
+        "dependencies": "age",
+        "feeType": [
+          {
+            "startAge": 41,
+            "endAge": 50,
+            "fee": 1794000,
+            "_class": "com.example.happylife.backendhappylife.entity.Plan$AgeBasedFee"
+          }
+        ],
+        "unit": "Million VND",
+        "insuranceAmount": "93.8"
+      },
+      {
+        "benefitName": "Dental Treatment",
+        "dependencies": "age",
+        "feeType": [
+          {
+            "startAge": 41,
+            "endAge": 50,
+            "fee": 490000,
+            "_class": "com.example.happylife.backendhappylife.entity.Plan$AgeBasedFee"
+          }
+        ],
+        "unit": "Million VND",
+        "insuranceAmount": "93.8"
+      }
+    ],
+    "planDuration": 12,
+    "planDurationUnit": "Month"
+  },
+  "approvalStatus": "Pending",
+  "startDate": {
+    "$date": "2024-02-24T18:28:18.183Z"
+  },
+  "endDate": {
+    "$date": "2025-02-24T18:28:18.183Z"
+  },
+  "totalFee": 4367400,
+  "createdAt": {
+    "$date": "2024-01-25T18:28:18.183Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-25T18:28:22.140Z"
+  },
+  "message": [
+    {
+      "dateMessage": {
+        "$date": "2024-01-25T18:28:18.183Z"
+      },
+      "content": "Your registration is pending. Please wait for the manager to confirm the registration!"
+    }
+  ],
+  "documentUrls": [
+    {
+      "docCategory": "Insurant:",
+      "urls": [
+        "https://firebasestorage.googleapis.com/v0/b/dmisa-410407.appspot.com/o/238f3db3-563e-495c-a69e-d894c9ee65b2-01_Design.docx+.docx?alt=media&token=dmisa-410407.appspot.com/238f3db3-563e-495c-a69e-d894c9ee65b2-01_Design.docx .docx/1706207301532997"
+      ]
+    }
+  ],
+  "_class": "com.example.happylife.backendhappylife.entity.Registration"
+},
+{
+  "_id": {
+    "$oid": "65b2ab9c110d812b678adfe4"
+  },
+  "customerInfo": {
+    "_id": {
+      "$oid": "657d8946c349fe4049fb7c8b"
+    },
+    "fullName": "Nguyễn Văn C",
+    "gender": "Male",
+    "DOB": {
+      "$date": "2002-07-09T00:00:00.000Z"
+    },
+    "phoneNumber": "0344193909",
+    "citizenId": "123456",
+    "email": "nguyenvanc@example.com",
+    "address": "123 Đường B, Quận C, Thành phố E"
+  },
+  "productInfo": {
+    "planId": "65acede0a680637ecb9af06c",
+    "planName": "Health Insurance",
+    "planAbout": "In life's journey, health is always the most important asset, accompanying you through each stage. Realizing this, Team 01 proudly introduces Health Insurance Plan 01, a perfect choice to protect you and your loved ones. Our health insurance plan not only provides peace of mind in treating serious illnesses but also helps reduce financial burdens, ensuring you can focus on recovery and enjoy life. The XX Insurance Package includes basic insurance benefits up to an impressive value, allowing you to choose reputable medical facilities nationwide. Especially, no health check is required before participation, making the registration process quick and convenient. In addition, we offer a variety of insurance benefits, from inpatient to outpatient treatment, personal accident insurance, life, dental, and maternity, ensuring comprehensive protection for you and your family. Our insurance package is very diverse, from Vietnamese citizens to foreigners residing in Vietnam, from 15-day-old children to 60-year-old adults, with the ability to renew up to 65 years old. This flexibility ensures that everyone can be protected under the care of 01. Let Team 01 accompany you, protect the most valuable asset of life - health, helping you and your family always feel secure and happy",
+    "planType": [
+      {
+        "benefits": [
+          {
+            "dependencies": "age",
+            "feeType": [
+              {
+                "startAge": 41,
+                "endAge": 50,
+                "fee": 1973400,
+                "_class": "com.example.happylife.backendhappylife.entity.Plan$AgeBasedFee"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "optionalBenefits": [
+      {
+        "benefitName": "Outpatient Treatment",
+        "dependencies": "age",
+        "feeType": [
+          {
+            "startAge": 41,
+            "endAge": 50,
+            "fee": 1794000,
+            "_class": "com.example.happylife.backendhappylife.entity.Plan$AgeBasedFee"
+          }
+        ],
+        "unit": "Million VND",
+        "insuranceAmount": "93.8"
+      }
+    ],
+    "planDuration": 12,
+    "planDurationUnit": "Month"
+  },
+  "approvalStatus": "Signed",
+  "startDate": {
+    "$date": "2024-02-24T18:42:36.971Z"
+  },
+  "endDate": {
+    "$date": "2025-02-24T18:42:36.971Z"
+  },
+  "totalFee": 3873400,
+  "createdAt": {
+    "$date": "2024-01-25T18:42:36.971Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-25T18:44:56.439Z"
+  },
+  "message": [
+    {
+      "dateMessage": {
+        "$date": "2024-01-25T18:42:36.971Z"
+      },
+      "content": "Your registration is pending. Please wait for the manager to confirm the registration!"
+    },
+    {
+      "dateMessage": {
+        "$date": "2024-01-25T18:44:05.661Z"
+      },
+      "content": "Your registration has been accepted. Please review the contract and confirm it before continuing."
+    },
+    {
+      "dateMessage": {
+        "$date": "2024-01-25T18:44:56.393Z"
+      },
+      "content": "Signed contract successfully. Now you can cash for this registration!"
+    }
+  ],
+  "contractIdInfo": {
+    "contractId": "65b2abf5110d812b678adfe6",
+    "regisInfo": {
+      "regisId": "65b2ab9c110d812b678adfe4",
+      "customerInfo": {
+        "_id": {
+          "$oid": "657d8946c349fe4049fb7c8b"
+        },
+        "fullName": "Nguyễn Văn C",
+        "gender": "Male",
+        "DOB": {
+          "$date": "2002-07-09T00:00:00.000Z"
+        },
+        "phoneNumber": "0344193909",
+        "citizenId": "123456",
+        "email": "nguyenvanc@example.com",
+        "address": "123 Đường B, Quận C, Thành phố E"
+      },
+      "productInfo": {
+        "planId": "65acede0a680637ecb9af06c",
+        "planName": "Health Insurance",
+        "planAbout": "In life's journey, health is always the most important asset, accompanying you through each stage. Realizing this, Team 01 proudly introduces Health Insurance Plan 01, a perfect choice to protect you and your loved ones. Our health insurance plan not only provides peace of mind in treating serious illnesses but also helps reduce financial burdens, ensuring you can focus on recovery and enjoy life. The XX Insurance Package includes basic insurance benefits up to an impressive value, allowing you to choose reputable medical facilities nationwide. Especially, no health check is required before participation, making the registration process quick and convenient. In addition, we offer a variety of insurance benefits, from inpatient to outpatient treatment, personal accident insurance, life, dental, and maternity, ensuring comprehensive protection for you and your family. Our insurance package is very diverse, from Vietnamese citizens to foreigners residing in Vietnam, from 15-day-old children to 60-year-old adults, with the ability to renew up to 65 years old. This flexibility ensures that everyone can be protected under the care of 01. Let Team 01 accompany you, protect the most valuable asset of life - health, helping you and your family always feel secure and happy",
+        "planType": [
+          {
+            "benefits": [
+              {
+                "dependencies": "age",
+                "feeType": [
+                  {
+                    "startAge": 41,
+                    "endAge": 50,
+                    "fee": 1973400,
+                    "_class": "com.example.happylife.backendhappylife.entity.Plan$AgeBasedFee"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "optionalBenefits": [
+          {
+            "benefitName": "Outpatient Treatment",
+            "dependencies": "age",
+            "feeType": [
+              {
+                "startAge": 41,
+                "endAge": 50,
+                "fee": 1794000,
+                "_class": "com.example.happylife.backendhappylife.entity.Plan$AgeBasedFee"
+              }
+            ],
+            "unit": "Million VND",
+            "insuranceAmount": "93.8"
+          }
+        ],
+        "planDuration": 12,
+        "planDurationUnit": "Month"
+      },
+      "approvalStatus": "Approved",
+      "startDate": {
+        "$date": "2024-02-24T18:42:36.971Z"
+      },
+      "endDate": {
+        "$date": "2025-02-24T18:42:36.971Z"
+      },
+      "totalFee": 3873400,
+      "createdAt": {
+        "$date": "2024-01-25T18:42:36.971Z"
+      },
+      "message": [
+        {
+          "dateMessage": {
+            "$date": "2024-01-25T18:42:36.971Z"
+          },
+          "content": "Your registration is pending. Please wait for the manager to confirm the registration!"
+        }
+      ],
+      "documentUrls": [
+        {
+          "docCategory": "Insurant:",
+          "urls": [
+            "https://firebasestorage.googleapis.com/v0/b/dmisa-410407.appspot.com/o/e23efad6-a313-4f2e-87b1-b3f0ac78ac2d-Deliverables+Check+list+%281%29.docx?alt=media&token=dmisa-410407.appspot.com/e23efad6-a313-4f2e-87b1-b3f0ac78ac2d-Deliverables Check list (1).docx/1706208157251872"
+          ]
+        }
+      ]
+    },
+    "status": "Awaiting",
+    "confirmation": false,
+    "content": [
+      "https://firebasestorage.googleapis.com/v0/b/dmisa-410407.appspot.com/o/InsuranceContract.pdf?alt=media&token=cd28a638-4db5-4c9a-b990-32866a57f513"
+    ],
+    "createdAt": {
+      "$date": "2024-01-25T18:44:05.778Z"
+    }
+  },
+  "documentUrls": [
+    {
+      "docCategory": "Insurant:",
+      "urls": [
+        "https://firebasestorage.googleapis.com/v0/b/dmisa-410407.appspot.com/o/e23efad6-a313-4f2e-87b1-b3f0ac78ac2d-Deliverables+Check+list+%281%29.docx?alt=media&token=dmisa-410407.appspot.com/e23efad6-a313-4f2e-87b1-b3f0ac78ac2d-Deliverables Check list (1).docx/1706208157251872"
+      ]
+    }
+  ],
+  "_class": "com.example.happylife.backendhappylife.entity.Registration"
+}]

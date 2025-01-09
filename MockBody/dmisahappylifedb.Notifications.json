@@ -1,0 +1,934 @@
+[{
+  "_id": {
+    "$oid": "65b115093e13141e5dd6a9f5"
+  },
+  "userInfo": {
+    "$oid": "657d8946c349fe4049fb7c8b"
+  },
+  "notiTitle": "Registration",
+  "notiContent": "Your registration has a new status update from insurance manager, please check it!",
+  "notiStatus": true,
+  "notiType": "Registration",
+  "notiPrio": "High",
+  "createdAt": {
+    "$date": "2024-01-24T13:47:53.843Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-25T06:36:54.216Z"
+  },
+  "_class": "com.example.happylife.backendhappylife.entity.Notification"
+},
+{
+  "_id": {
+    "$oid": "65b1150b3e13141e5dd6a9f8"
+  },
+  "userInfo": {
+    "$oid": "657d8946c349fe4049fb7c8b"
+  },
+  "notiTitle": "Registration",
+  "notiContent": "Your registration has a new status update from insurance manager, please check it!",
+  "notiStatus": true,
+  "notiType": "Registration",
+  "notiPrio": "High",
+  "createdAt": {
+    "$date": "2024-01-24T13:47:55.601Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-25T06:36:54.216Z"
+  },
+  "_class": "com.example.happylife.backendhappylife.entity.Notification"
+},
+{
+  "_id": {
+    "$oid": "65b1150c3e13141e5dd6a9fb"
+  },
+  "userInfo": {
+    "$oid": "657d8946c349fe4049fb7c8b"
+  },
+  "notiTitle": "Registration",
+  "notiContent": "Your registration has a new status update from insurance manager, please check it!",
+  "notiStatus": true,
+  "notiType": "Registration",
+  "notiPrio": "High",
+  "createdAt": {
+    "$date": "2024-01-24T13:47:56.440Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-25T06:36:54.216Z"
+  },
+  "_class": "com.example.happylife.backendhappylife.entity.Notification"
+},
+{
+  "_id": {
+    "$oid": "65b1150d3e13141e5dd6a9fe"
+  },
+  "userInfo": {
+    "$oid": "657d8946c349fe4049fb7c8b"
+  },
+  "notiTitle": "Registration",
+  "notiContent": "Your registration has a new status update from insurance manager, please check it!",
+  "notiStatus": true,
+  "notiType": "Registration",
+  "notiPrio": "High",
+  "createdAt": {
+    "$date": "2024-01-24T13:47:57.930Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-25T06:36:54.216Z"
+  },
+  "_class": "com.example.happylife.backendhappylife.entity.Notification"
+},
+{
+  "_id": {
+    "$oid": "65b1152b3e13141e5dd6aa00"
+  },
+  "userInfo": {
+    "$oid": "657d8946c349fe4049fb7c8b"
+  },
+  "notiTitle": "Thông báo đăng ký hợp đồng thành công!",
+  "notiContent": "Bạn đã kí hợp đồng thành công và bạn cần thanh toán!",
+  "notiStatus": true,
+  "createdAt": {
+    "$date": "2024-01-24T13:48:27.265Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-25T06:36:54.216Z"
+  },
+  "_class": "com.example.happylife.backendhappylife.entity.Notification"
+},
+{
+  "_id": {
+    "$oid": "65b1152f3e13141e5dd6aa02"
+  },
+  "userInfo": {
+    "$oid": "657d8946c349fe4049fb7c8b"
+  },
+  "notiTitle": "Thông báo đã thanh toán thành công!",
+  "notiContent": "Bạn đã thanh toán thành công!",
+  "notiStatus": true,
+  "createdAt": {
+    "$date": "2024-01-24T13:48:31.913Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-25T06:36:54.216Z"
+  },
+  "_class": "com.example.happylife.backendhappylife.entity.Notification"
+},
+{
+  "_id": {
+    "$oid": "65b115343e13141e5dd6aa04"
+  },
+  "userInfo": {
+    "$oid": "657d8946c349fe4049fb7c8b"
+  },
+  "notiTitle": "Thông báo đăng ký hợp đồng thành công!",
+  "notiContent": "Bạn đã kí hợp đồng thành công và bạn cần thanh toán!",
+  "notiStatus": true,
+  "createdAt": {
+    "$date": "2024-01-24T13:48:36.855Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-25T06:36:54.216Z"
+  },
+  "_class": "com.example.happylife.backendhappylife.entity.Notification"
+},
+{
+  "_id": {
+    "$oid": "65b115393e13141e5dd6aa06"
+  },
+  "userInfo": {
+    "$oid": "657d8946c349fe4049fb7c8b"
+  },
+  "notiTitle": "Thông báo đã thanh toán thành công!",
+  "notiContent": "Bạn đã thanh toán thành công!",
+  "notiStatus": true,
+  "createdAt": {
+    "$date": "2024-01-24T13:48:41.253Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-25T06:36:54.216Z"
+  },
+  "_class": "com.example.happylife.backendhappylife.entity.Notification"
+},
+{
+  "_id": {
+    "$oid": "65b116443e13141e5dd6aa0a"
+  },
+  "userInfo": {
+    "$oid": "657d8946c349fe4049fb7c8b"
+  },
+  "notiTitle": "Claim",
+  "notiContent": "Your claim has a new status update from insurance manager, please check it!",
+  "notiStatus": true,
+  "notiType": "Claim",
+  "notiPrio": "Normal",
+  "createdAt": {
+    "$date": "2024-01-24T13:53:08.039Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-25T06:36:54.216Z"
+  },
+  "_class": "com.example.happylife.backendhappylife.entity.Notification"
+},
+{
+  "_id": {
+    "$oid": "65b14f35383bcf4d50cf4012"
+  },
+  "userInfo": {
+    "$oid": "657d8946c349fe4049fb7c8b"
+  },
+  "notiTitle": "Thông báo đăng ký hợp đồng thành công!",
+  "notiContent": "Bạn đã kí hợp đồng thành công và bạn cần thanh toán!",
+  "notiStatus": true,
+  "createdAt": {
+    "$date": "2024-01-24T17:56:05.870Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-25T06:36:54.216Z"
+  },
+  "_class": "com.example.happylife.backendhappylife.entity.Notification"
+},
+{
+  "_id": {
+    "$oid": "65b14f95383bcf4d50cf4014"
+  },
+  "userInfo": {
+    "$oid": "657d8946c349fe4049fb7c8b"
+  },
+  "notiTitle": "Thông báo đăng ký hợp đồng thành công!",
+  "notiContent": "Bạn đã kí hợp đồng thành công và bạn cần thanh toán!",
+  "notiStatus": true,
+  "createdAt": {
+    "$date": "2024-01-24T17:57:41.358Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-25T06:36:54.216Z"
+  },
+  "_class": "com.example.happylife.backendhappylife.entity.Notification"
+},
+{
+  "_id": {
+    "$oid": "65b14f9f383bcf4d50cf4016"
+  },
+  "userInfo": {
+    "$oid": "657d8946c349fe4049fb7c8b"
+  },
+  "notiTitle": "Thông báo đã thanh toán thành công!",
+  "notiContent": "Bạn đã thanh toán thành công!",
+  "notiStatus": true,
+  "createdAt": {
+    "$date": "2024-01-24T17:57:51.819Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-25T06:36:54.216Z"
+  },
+  "_class": "com.example.happylife.backendhappylife.entity.Notification"
+},
+{
+  "_id": {
+    "$oid": "65b1dfa49c809a79d5cacfbd"
+  },
+  "userInfo": {
+    "$oid": "657d8946c349fe4049fb7c8b"
+  },
+  "notiTitle": "Registration",
+  "notiContent": "Your registration has a new status update from insurance manager, please check it!",
+  "notiStatus": true,
+  "notiType": "Registration",
+  "notiPrio": "High",
+  "createdAt": {
+    "$date": "2024-01-25T04:12:20.430Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-25T06:36:54.216Z"
+  },
+  "_class": "com.example.happylife.backendhappylife.entity.Notification"
+},
+{
+  "_id": {
+    "$oid": "65b1dfc39c809a79d5cacfbf"
+  },
+  "userInfo": {
+    "$oid": "657d8946c349fe4049fb7c8b"
+  },
+  "notiTitle": "Thông báo đăng ký hợp đồng thành công!",
+  "notiContent": "Bạn đã kí hợp đồng thành công và bạn cần thanh toán!",
+  "notiStatus": true,
+  "createdAt": {
+    "$date": "2024-01-25T04:12:51.169Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-25T06:36:54.216Z"
+  },
+  "_class": "com.example.happylife.backendhappylife.entity.Notification"
+},
+{
+  "_id": {
+    "$oid": "65b21734de9b4c01f0ca39ec"
+  },
+  "userInfo": {
+    "$oid": "657d8946c349fe4049fb7c8b"
+  },
+  "notiTitle": "Thông báo đã thanh toán thành công!",
+  "notiContent": "You have pay the invoice successfully!",
+  "notiStatus": true,
+  "createdAt": {
+    "$date": "2024-01-25T08:09:24.393Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-25T12:06:14.505Z"
+  },
+  "_class": "com.example.happylife.backendhappylife.entity.Notification"
+},
+{
+  "_id": {
+    "$oid": "65b21a0bde9b4c01f0ca39ee"
+  },
+  "userInfo": {
+    "$oid": "657d8946c349fe4049fb7c8b"
+  },
+  "notiTitle": "Thông báo đã thanh toán thành công!",
+  "notiContent": "You have pay the invoice successfully!",
+  "notiStatus": true,
+  "createdAt": {
+    "$date": "2024-01-25T08:21:31.800Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-25T12:06:14.505Z"
+  },
+  "_class": "com.example.happylife.backendhappylife.entity.Notification"
+},
+{
+  "_id": {
+    "$oid": "65b22d266368fc00f347edea"
+  },
+  "userInfo": {
+    "$oid": "657d8946c349fe4049fb7c8b"
+  },
+  "notiTitle": "Registration",
+  "notiContent": "Your registration has a new status update from insurance manager, please check it!",
+  "notiStatus": true,
+  "notiType": "Registration",
+  "notiPrio": "High",
+  "createdAt": {
+    "$date": "2024-01-25T09:43:02.799Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-25T12:06:14.505Z"
+  },
+  "_class": "com.example.happylife.backendhappylife.entity.Notification"
+},
+{
+  "_id": {
+    "$oid": "65b22d276368fc00f347eded"
+  },
+  "userInfo": {
+    "$oid": "657d8946c349fe4049fb7c8b"
+  },
+  "notiTitle": "Registration",
+  "notiContent": "Your registration has a new status update from insurance manager, please check it!",
+  "notiStatus": true,
+  "notiType": "Registration",
+  "notiPrio": "High",
+  "createdAt": {
+    "$date": "2024-01-25T09:43:03.693Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-25T12:06:14.505Z"
+  },
+  "_class": "com.example.happylife.backendhappylife.entity.Notification"
+},
+{
+  "_id": {
+    "$oid": "65b22d286368fc00f347edf0"
+  },
+  "userInfo": {
+    "$oid": "657d8946c349fe4049fb7c8b"
+  },
+  "notiTitle": "Registration",
+  "notiContent": "Your registration has a new status update from insurance manager, please check it!",
+  "notiStatus": true,
+  "notiType": "Registration",
+  "notiPrio": "High",
+  "createdAt": {
+    "$date": "2024-01-25T09:43:04.763Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-25T12:06:14.505Z"
+  },
+  "_class": "com.example.happylife.backendhappylife.entity.Notification"
+},
+{
+  "_id": {
+    "$oid": "65b22d2b6368fc00f347edf3"
+  },
+  "userInfo": {
+    "$oid": "657d8946c349fe4049fb7c8b"
+  },
+  "notiTitle": "Registration",
+  "notiContent": "Your registration has a new status update from insurance manager, please check it!",
+  "notiStatus": true,
+  "notiType": "Registration",
+  "notiPrio": "High",
+  "createdAt": {
+    "$date": "2024-01-25T09:43:07.100Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-25T12:06:14.505Z"
+  },
+  "_class": "com.example.happylife.backendhappylife.entity.Notification"
+},
+{
+  "_id": {
+    "$oid": "65b22d2c6368fc00f347edf6"
+  },
+  "userInfo": {
+    "$oid": "657d8946c349fe4049fb7c8b"
+  },
+  "notiTitle": "Registration",
+  "notiContent": "Your registration has a new status update from insurance manager, please check it!",
+  "notiStatus": true,
+  "notiType": "Registration",
+  "notiPrio": "High",
+  "createdAt": {
+    "$date": "2024-01-25T09:43:08.356Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-25T12:06:14.505Z"
+  },
+  "_class": "com.example.happylife.backendhappylife.entity.Notification"
+},
+{
+  "_id": {
+    "$oid": "65b22d2d6368fc00f347edf9"
+  },
+  "userInfo": {
+    "$oid": "657d8946c349fe4049fb7c8b"
+  },
+  "notiTitle": "Registration",
+  "notiContent": "Your registration has a new status update from insurance manager, please check it!",
+  "notiStatus": true,
+  "notiType": "Registration",
+  "notiPrio": "High",
+  "createdAt": {
+    "$date": "2024-01-25T09:43:09.450Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-25T12:06:14.505Z"
+  },
+  "_class": "com.example.happylife.backendhappylife.entity.Notification"
+},
+{
+  "_id": {
+    "$oid": "65b22d2e6368fc00f347edfc"
+  },
+  "userInfo": {
+    "$oid": "657d8946c349fe4049fb7c8b"
+  },
+  "notiTitle": "Registration",
+  "notiContent": "Your registration has a new status update from insurance manager, please check it!",
+  "notiStatus": true,
+  "notiType": "Registration",
+  "notiPrio": "High",
+  "createdAt": {
+    "$date": "2024-01-25T09:43:10.827Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-25T12:06:14.505Z"
+  },
+  "_class": "com.example.happylife.backendhappylife.entity.Notification"
+},
+{
+  "_id": {
+    "$oid": "65b22d4dde9b4c01f0ca39f0"
+  },
+  "userInfo": {
+    "$oid": "657d8946c349fe4049fb7c8b"
+  },
+  "notiTitle": "Thông báo đăng ký hợp đồng thành công!",
+  "notiContent": "Bạn đã kí hợp đồng thành công và bạn cần thanh toán!",
+  "notiStatus": true,
+  "createdAt": {
+    "$date": "2024-01-25T09:43:41.536Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-25T12:06:14.505Z"
+  },
+  "_class": "com.example.happylife.backendhappylife.entity.Notification"
+},
+{
+  "_id": {
+    "$oid": "65b22d68de9b4c01f0ca39f2"
+  },
+  "userInfo": {
+    "$oid": "657d8946c349fe4049fb7c8b"
+  },
+  "notiTitle": "Thông báo đã thanh toán thành công!",
+  "notiContent": "You have pay the invoice successfully!",
+  "notiStatus": true,
+  "createdAt": {
+    "$date": "2024-01-25T09:44:08.356Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-25T12:06:14.505Z"
+  },
+  "_class": "com.example.happylife.backendhappylife.entity.Notification"
+},
+{
+  "_id": {
+    "$oid": "65b2391d6368fc00f347edff"
+  },
+  "userInfo": {
+    "$oid": "657d8946c349fe4049fb7c8b"
+  },
+  "notiTitle": "Thông báo đăng ký hợp đồng thành công!",
+  "notiContent": "Bạn đã kí hợp đồng thành công và bạn cần thanh toán!",
+  "notiStatus": true,
+  "createdAt": {
+    "$date": "2024-01-25T10:34:05.931Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-25T12:06:14.505Z"
+  },
+  "_class": "com.example.happylife.backendhappylife.entity.Notification"
+},
+{
+  "_id": {
+    "$oid": "65b239f96368fc00f347ee03"
+  },
+  "userInfo": {
+    "$oid": "657d8946c349fe4049fb7c8b"
+  },
+  "notiTitle": "Registration",
+  "notiContent": "Your registration has a new status update from insurance manager, please check it!",
+  "notiStatus": true,
+  "notiType": "Registration",
+  "notiPrio": "High",
+  "createdAt": {
+    "$date": "2024-01-25T10:37:45.847Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-25T12:06:14.505Z"
+  },
+  "_class": "com.example.happylife.backendhappylife.entity.Notification"
+},
+{
+  "_id": {
+    "$oid": "65b2406298f4e307b687e84c"
+  },
+  "userInfo": {
+    "$oid": "657d8946c349fe4049fb7c8b"
+  },
+  "notiTitle": "Registration",
+  "notiContent": "Your registration has a new status update from insurance manager, please check it!",
+  "notiStatus": true,
+  "notiType": "Registration",
+  "notiPrio": "Normal",
+  "createdAt": {
+    "$date": "2024-01-25T11:05:06.795Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-25T12:06:14.505Z"
+  },
+  "_class": "com.example.happylife.backendhappylife.entity.Notification"
+},
+{
+  "_id": {
+    "$oid": "65b2406698f4e307b687e84f"
+  },
+  "userInfo": {
+    "$oid": "657d8946c349fe4049fb7c8b"
+  },
+  "notiTitle": "Registration",
+  "notiContent": "Your registration has a new status update from insurance manager, please check it!",
+  "notiStatus": true,
+  "notiType": "Registration",
+  "notiPrio": "High",
+  "createdAt": {
+    "$date": "2024-01-25T11:05:10.015Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-25T12:06:14.505Z"
+  },
+  "_class": "com.example.happylife.backendhappylife.entity.Notification"
+},
+{
+  "_id": {
+    "$oid": "65b24918184c9c58eb57754e"
+  },
+  "userInfo": {
+    "$oid": "657d8946c349fe4049fb7c8b"
+  },
+  "notiTitle": "Thông báo đã thanh toán thành công!",
+  "notiContent": "You have pay the invoice successfully!",
+  "notiStatus": true,
+  "createdAt": {
+    "$date": "2024-01-25T11:42:16.077Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-25T12:06:14.505Z"
+  },
+  "_class": "com.example.happylife.backendhappylife.entity.Notification"
+},
+{
+  "_id": {
+    "$oid": "65b2492c184c9c58eb577550"
+  },
+  "userInfo": {
+    "$oid": "657d8946c349fe4049fb7c8b"
+  },
+  "notiTitle": "Thông báo đăng ký hợp đồng thành công!",
+  "notiContent": "Bạn đã kí hợp đồng thành công và bạn cần thanh toán!",
+  "notiStatus": true,
+  "createdAt": {
+    "$date": "2024-01-25T11:42:36.561Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-25T12:06:14.505Z"
+  },
+  "_class": "com.example.happylife.backendhappylife.entity.Notification"
+},
+{
+  "_id": {
+    "$oid": "65b24934184c9c58eb577552"
+  },
+  "userInfo": {
+    "$oid": "657d8946c349fe4049fb7c8b"
+  },
+  "notiTitle": "Thông báo đã thanh toán thành công!",
+  "notiContent": "You have pay the invoice successfully!",
+  "notiStatus": true,
+  "createdAt": {
+    "$date": "2024-01-25T11:42:44.379Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-25T12:06:14.505Z"
+  },
+  "_class": "com.example.happylife.backendhappylife.entity.Notification"
+},
+{
+  "_id": {
+    "$oid": "65b2493a184c9c58eb577554"
+  },
+  "userInfo": {
+    "$oid": "657d8946c349fe4049fb7c8b"
+  },
+  "notiTitle": "Thông báo đăng ký hợp đồng thành công!",
+  "notiContent": "Bạn đã kí hợp đồng thành công và bạn cần thanh toán!",
+  "notiStatus": true,
+  "createdAt": {
+    "$date": "2024-01-25T11:42:50.493Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-25T12:06:14.505Z"
+  },
+  "_class": "com.example.happylife.backendhappylife.entity.Notification"
+},
+{
+  "_id": {
+    "$oid": "65b24942184c9c58eb577556"
+  },
+  "userInfo": {
+    "$oid": "657d8946c349fe4049fb7c8b"
+  },
+  "notiTitle": "Thông báo đã thanh toán thành công!",
+  "notiContent": "You have pay the invoice successfully!",
+  "notiStatus": true,
+  "createdAt": {
+    "$date": "2024-01-25T11:42:58.907Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-25T12:06:14.505Z"
+  },
+  "_class": "com.example.happylife.backendhappylife.entity.Notification"
+},
+{
+  "_id": {
+    "$oid": "65b249aa184c9c58eb577559"
+  },
+  "userInfo": {
+    "$oid": "657d8946c349fe4049fb7c8b"
+  },
+  "notiTitle": "Registration",
+  "notiContent": "Your registration has a new status update from insurance manager, please check it!",
+  "notiStatus": true,
+  "notiType": "Registration",
+  "notiPrio": "High",
+  "createdAt": {
+    "$date": "2024-01-25T11:44:42.910Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-25T12:06:14.505Z"
+  },
+  "_class": "com.example.happylife.backendhappylife.entity.Notification"
+},
+{
+  "_id": {
+    "$oid": "65b24a0a184c9c58eb57755a"
+  },
+  "userInfo": {
+    "$oid": "657d8946c349fe4049fb7c8b"
+  },
+  "notiTitle": "Registration",
+  "notiContent": "Your registration has a new status update from insurance manager, please check it!",
+  "notiStatus": true,
+  "notiType": "Registration",
+  "notiPrio": "Normal",
+  "createdAt": {
+    "$date": "2024-01-25T11:46:18.209Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-25T12:06:14.505Z"
+  },
+  "_class": "com.example.happylife.backendhappylife.entity.Notification"
+},
+{
+  "_id": {
+    "$oid": "65b24bd8431eaa191801a2f5"
+  },
+  "userInfo": {
+    "$oid": "657d8946c349fe4049fb7c8b"
+  },
+  "notiTitle": "Claim",
+  "notiContent": "Your claim has a new status update from insurance manager, please check it!",
+  "notiStatus": true,
+  "notiType": "Claim",
+  "notiPrio": "Normal",
+  "createdAt": {
+    "$date": "2024-01-25T11:54:00.159Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-25T12:06:14.505Z"
+  },
+  "_class": "com.example.happylife.backendhappylife.entity.Notification"
+},
+{
+  "_id": {
+    "$oid": "65b24bfc431eaa191801a2f6"
+  },
+  "userInfo": {
+    "$oid": "657d8946c349fe4049fb7c8b"
+  },
+  "notiTitle": "Claim",
+  "notiContent": "Your claim has a new status update from insurance manager, please check it!",
+  "notiStatus": true,
+  "notiType": "Claim",
+  "notiPrio": "Normal",
+  "createdAt": {
+    "$date": "2024-01-25T11:54:36.383Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-25T12:06:14.505Z"
+  },
+  "_class": "com.example.happylife.backendhappylife.entity.Notification"
+},
+{
+  "_id": {
+    "$oid": "65b24eed98f4e307b687e854"
+  },
+  "userInfo": {
+    "$oid": "657d8946c349fe4049fb7c8b"
+  },
+  "notiTitle": "Thông báo đăng ký hợp đồng thành công!",
+  "notiContent": "Bạn đã kí hợp đồng thành công và bạn cần thanh toán!",
+  "notiStatus": true,
+  "createdAt": {
+    "$date": "2024-01-25T12:07:09.937Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-25T13:58:19.460Z"
+  },
+  "_class": "com.example.happylife.backendhappylife.entity.Notification"
+},
+{
+  "_id": {
+    "$oid": "65b265d1cc7f0c070f8b7e1f"
+  },
+  "userInfo": {
+    "$oid": "657d8946c349fe4049fb7c8b"
+  },
+  "notiTitle": "Registration",
+  "notiContent": "Your registration has a new status update from insurance manager, please check it!",
+  "notiStatus": true,
+  "notiType": "Registration",
+  "notiPrio": "High",
+  "createdAt": {
+    "$date": "2024-01-25T13:44:49.132Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-25T13:58:19.460Z"
+  },
+  "_class": "com.example.happylife.backendhappylife.entity.Notification"
+},
+{
+  "_id": {
+    "$oid": "65b26af4cc7f0c070f8b7e24"
+  },
+  "userInfo": {
+    "$oid": "657d8946c349fe4049fb7c8b"
+  },
+  "notiTitle": "Thông báo đăng ký hợp đồng thành công!",
+  "notiContent": "Bạn đã kí hợp đồng thành công và bạn cần thanh toán!",
+  "notiStatus": true,
+  "createdAt": {
+    "$date": "2024-01-25T14:06:44.519Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-25T14:10:05.740Z"
+  },
+  "_class": "com.example.happylife.backendhappylife.entity.Notification"
+},
+{
+  "_id": {
+    "$oid": "65b26b14cc7f0c070f8b7e27"
+  },
+  "userInfo": {
+    "$oid": "657d8946c349fe4049fb7c8b"
+  },
+  "notiTitle": "Registration",
+  "notiContent": "Your registration has a new status update from insurance manager, please check it!",
+  "notiStatus": true,
+  "notiType": "Registration",
+  "notiPrio": "High",
+  "createdAt": {
+    "$date": "2024-01-25T14:07:16.865Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-25T14:10:05.740Z"
+  },
+  "_class": "com.example.happylife.backendhappylife.entity.Notification"
+},
+{
+  "_id": {
+    "$oid": "65b2a8cf110d812b678adfdd"
+  },
+  "userInfo": {
+    "$oid": "657d8946c349fe4049fb7c8b"
+  },
+  "notiTitle": "Registration",
+  "notiContent": "Your registration has a new status update from insurance manager, please check it!",
+  "notiStatus": true,
+  "notiType": "Registration",
+  "notiPrio": "High",
+  "createdAt": {
+    "$date": "2024-01-25T18:30:39.755Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-25T18:38:12.714Z"
+  },
+  "_class": "com.example.happylife.backendhappylife.entity.Notification"
+},
+{
+  "_id": {
+    "$oid": "65b2a8fe110d812b678adfdf"
+  },
+  "userInfo": {
+    "$oid": "657d8946c349fe4049fb7c8b"
+  },
+  "notiTitle": "Thông báo đăng ký hợp đồng thành công!",
+  "notiContent": "Bạn đã kí hợp đồng thành công và bạn cần thanh toán!",
+  "notiStatus": true,
+  "createdAt": {
+    "$date": "2024-01-25T18:31:26.228Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-25T18:38:12.714Z"
+  },
+  "_class": "com.example.happylife.backendhappylife.entity.Notification"
+},
+{
+  "_id": {
+    "$oid": "65b2a909110d812b678adfe1"
+  },
+  "userInfo": {
+    "$oid": "657d8946c349fe4049fb7c8b"
+  },
+  "notiTitle": "Thông báo đã thanh toán thành công!",
+  "notiContent": "You have pay the invoice successfully!",
+  "notiStatus": true,
+  "createdAt": {
+    "$date": "2024-01-25T18:31:37.905Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-25T18:38:12.714Z"
+  },
+  "_class": "com.example.happylife.backendhappylife.entity.Notification"
+},
+{
+  "_id": {
+    "$oid": "65b2abf6110d812b678adfe7"
+  },
+  "userInfo": {
+    "$oid": "657d8946c349fe4049fb7c8b"
+  },
+  "notiTitle": "Registration",
+  "notiContent": "Your registration has a new status update from insurance manager, please check it!",
+  "notiStatus": true,
+  "notiType": "Registration",
+  "notiPrio": "High",
+  "createdAt": {
+    "$date": "2024-01-25T18:44:06.081Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-25T18:44:20.456Z"
+  },
+  "_class": "com.example.happylife.backendhappylife.entity.Notification"
+},
+{
+  "_id": {
+    "$oid": "65b2ac28110d812b678adfe9"
+  },
+  "userInfo": {
+    "$oid": "657d8946c349fe4049fb7c8b"
+  },
+  "notiTitle": "Thông báo đăng ký hợp đồng thành công!",
+  "notiContent": "Bạn đã kí hợp đồng thành công và bạn cần thanh toán!",
+  "notiStatus": true,
+  "createdAt": {
+    "$date": "2024-01-25T18:44:56.496Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-25T18:56:36.522Z"
+  },
+  "_class": "com.example.happylife.backendhappylife.entity.Notification"
+},
+{
+  "_id": {
+    "$oid": "65b2acdc110d812b678adfec"
+  },
+  "userInfo": {
+    "$oid": "657d8946c349fe4049fb7c8b"
+  },
+  "notiTitle": "Claim",
+  "notiContent": "Your claim has a new status update from insurance manager, please check it!",
+  "notiStatus": true,
+  "notiType": "Claim",
+  "notiPrio": "Normal",
+  "createdAt": {
+    "$date": "2024-01-25T18:47:56.952Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-25T18:56:36.522Z"
+  },
+  "_class": "com.example.happylife.backendhappylife.entity.Notification"
+},
+{
+  "_id": {
+    "$oid": "65b2ad3a110d812b678adfee"
+  },
+  "userInfo": {
+    "$oid": "657d8946c349fe4049fb7c8b"
+  },
+  "notiTitle": "Claim",
+  "notiContent": "Your claim has a new status update from insurance manager, please check it!",
+  "notiStatus": true,
+  "notiType": "Claim",
+  "notiPrio": "Normal",
+  "createdAt": {
+    "$date": "2024-01-25T18:49:30.094Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-25T18:56:36.522Z"
+  },
+  "_class": "com.example.happylife.backendhappylife.entity.Notification"
+}]
